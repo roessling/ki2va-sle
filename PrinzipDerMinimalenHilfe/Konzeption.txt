@@ -1,5 +1,5 @@
 ﻿Konzeption SLE "Prinzip der minimalen Hilfe"
-
+/*asdf*/
 Vage Vorstellung von Guido:
 - Grundkonzept "minimale Hilfe" ("so viel Hilfe wie nötig, so wenig wie möglich")
 - Hintergrundgedanken dazu
