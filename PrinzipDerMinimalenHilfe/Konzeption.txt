@@ -5,7 +5,7 @@ Vage Vorstellung von Guido:
 - Hintergrundgedanken dazu
 - Zielvorstellung "Studierende sollen selbst Lösung erarbeiten (ggf. mit Unterstützung)",
   Abgrenzung von "Hörsaalübung" (Tutor*in gibt die Lösung vor, "das ist so")
-- Voraussetzungen: saubere Diagnostik
+- Herausforderungen/Voraussetzungen: saubere Diagnostik
   Ausgehend von "Ich komme bei Aufgabe 2 nicht weiter" kann man nicht sinnvoll unterstützen
     - Sind Teile der Aufgabenstellung unklar (Begriffsklärung, Verweis auf Definitionen)?
     - Sind Teile des Lösungswegs unklar?
@@ -28,3 +28,6 @@ Vage Vorstellung von Guido:
     
 Wunsch: an Hilfsbereitschaft der Nutzer*innen appellieren, möglichst interaktiv (nicht
 "PowerPoint mit Animation").
+
+Welche Erfahrungen haben Tutor*innen während ihrer Tätigkeit gesammelt? (1) PdmH als Bestandteil der Schulungen (2) PdmH in Vermittlungssituationen
+Welchen Bedarf sehen sie bzw. was brauchen sie?
