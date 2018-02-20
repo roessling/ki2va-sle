@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ScappleDocument Version="1.1" ID="6E302B0A-7629-4B54-85F5-BDEF06240425">
+    <Notes>
+        <Note ID="0" FontSize="16.0" Position="517.0,81.0" Width="249.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>SLE Prinzip der minimalen Hilfe</String>
+            <Formatting>
+                <FormatRange Bold="Yes">0,31</FormatRange>
+            </Formatting>
+        </Note>
+        <Note ID="1" FontSize="12.0" Position="526.390625,123.976562" Width="76.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>Grundlagen</String>
+            <ConnectedNoteIDs>2, 8, 12</ConnectedNoteIDs>
+            <Formatting>
+                <FormatRange Bold="Yes">0,10</FormatRange>
+            </Formatting>
+        </Note>
+        <Note ID="2" FontSize="12.0" Position="340.277344,140.648438" Width="71.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>Hintergrund</String>
+            <ConnectedNoteIDs>1, 3-5</ConnectedNoteIDs>
+        </Note>
+        <Note ID="3" FontSize="12.0" Position="268.683594,119.046875" Width="49.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>Historie</String>
+            <ConnectedNoteIDs>2</ConnectedNoteIDs>
+        </Note>
+        <Note ID="4" FontSize="12.0" Position="115.816406,141.980469" Width="157.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>Praxis an der TU Darmstadt</String>
+            <ConnectedNoteIDs>2</ConnectedNoteIDs>
+        </Note>
+        <Note ID="5" FontSize="12.0" Position="232.171875,165.582031" Width="71.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>Grundsätze</String>
+            <ConnectedNoteIDs>2, 7</ConnectedNoteIDs>
+            <PointsToNoteIDs>7</PointsToNoteIDs>
+        </Note>
+        <Note ID="7" FontSize="12.0" Position="24.0,179.667969" Width="168.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>“So viel wie nötig, so wenig wie möglich”
+“Student*innen dort abholen, wo sie stehen”</String>
+            <ConnectedNoteIDs>5</ConnectedNoteIDs>
+        </Note>
+        <Note ID="8" FontSize="12.0" Position="438.335938,200.34375" Width="101.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>Voraussetzungen</String>
+            <ConnectedNoteIDs>1, 9-11</ConnectedNoteIDs>
+        </Note>
+        <Note ID="9" FontSize="12.0" Position="225.054688,221.519531" Width="148.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>Konkreten Wissensstand (er-)kennen</String>
+            <ConnectedNoteIDs>8</ConnectedNoteIDs>
+        </Note>
+        <Note ID="10" FontSize="12.0" Position="315.832031,253.070312" Width="109.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>Diagnose des Wissensstands</String>
+            <ConnectedNoteIDs>8</ConnectedNoteIDs>
+        </Note>
+        <Note ID="11" FontSize="12.0" Position="361.945312,305.5" Width="173.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>Eigene Hilfsbereitschaft zügeln</String>
+            <ConnectedNoteIDs>8</ConnectedNoteIDs>
+        </Note>
+        <Note ID="12" FontSize="12.0" Position="619.882812,175.960938" Width="35.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>Ziele</String>
+            <ConnectedNoteIDs>1, 13-16</ConnectedNoteIDs>
+        </Note>
+        <Note ID="13" FontSize="12.0" Position="761.667969,151.179688" Width="200.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>“Hilfe zur Selbsthilfe”: Studierende sollen selbst die Lösung erarbeiten</String>
+            <ConnectedNoteIDs>12</ConnectedNoteIDs>
+        </Note>
+        <Note ID="14" FontSize="12.0" Position="724.757812,207.550781" Width="173.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>Fenster zu Lernmöglichkeiten öffnen, nicht schließen</String>
+            <ConnectedNoteIDs>12, 17</ConnectedNoteIDs>
+        </Note>
+        <Note ID="15" FontSize="12.0" Position="696.351562,272.0" Width="147.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>Förderung von Diskussionskompetenz</String>
+            <ConnectedNoteIDs>12</ConnectedNoteIDs>
+        </Note>
+        <Note ID="16" FontSize="12.0" Position="591.117188,312.519531" Width="142.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>Förderung von Analyse und Diagnose</String>
+            <ConnectedNoteIDs>12, 18</ConnectedNoteIDs>
+        </Note>
+        <Note ID="17" FontSize="12.0" Position="881.402344,249.234375" Width="225.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>Studierende dazu befähigen, (ggf. mit Hilfestellung) aus eigener Kraft weiterarbeiten zu können und im Wesentlichen selbst (alleine oder in Lerngruppe) die Aufgabe zu bewältigen.
+
+Zu früher Zugang "zur Lösung" vermeidet die mentalen Zwischenschritte und be-/verhindert das tiefere Verständnis!</String>
+            <ConnectedNoteIDs>14</ConnectedNoteIDs>
+        </Note>
+        <Note ID="18" FontSize="12.0" Position="652.066406,371.542969" Width="200.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>Tutor*in und Student*in lernen, jeweils genauer zu verstehen, was der*die andere denkt und wo er*sie "gerade steht" bzw. was den weiteren Weg blockiert.</String>
+            <ConnectedNoteIDs>16</ConnectedNoteIDs>
+        </Note>
+        <Note ID="19" FontSize="12.0" Position="281.324219,404.671875" Width="112.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>SCENE “Pyramide”</String>
+            <ConnectedNoteIDs>20, 22, 24, 26, 28</ConnectedNoteIDs>
+            <Formatting>
+                <FormatRange Bold="Yes" Italic="Yes">0,5</FormatRange>
+                <FormatRange Italic="Yes">5,11</FormatRange>
+            </Formatting>
+        </Note>
+        <Note ID="20" FontSize="12.0" Position="80.375,467.0" Width="136.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>Stufe 1: Motivationshilfe</String>
+            <ConnectedNoteIDs>19, 21</ConnectedNoteIDs>
+        </Note>
+        <Note ID="21" FontSize="12.0" Position="20.0,374.734375" Width="181.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>Mut machen
+Zur Weiterarbeit anregen
+"Sieht doch schon ganz gut aus"
+"Du bist auf einem guten Weg"
+"Weiter so"</String>
+            <ConnectedNoteIDs>20</ConnectedNoteIDs>
+        </Note>
+        <Note ID="22" FontSize="12.0" Position="75.242188,521.46875" Width="155.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>Stufe 2: Rückmeldungshilfe</String>
+            <ConnectedNoteIDs>19, 23</ConnectedNoteIDs>
+        </Note>
+        <Note ID="23" FontSize="12.0" Position="8.886719,566.265625" Width="200.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>Information, ob der Ansatz in die richtige Richtung geht</String>
+            <ConnectedNoteIDs>22</ConnectedNoteIDs>
+        </Note>
+        <Note ID="24" FontSize="12.0" Position="201.742188,563.871094" Width="135.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>Stufe 3: Allgemeine strategische Hilfe</String>
+            <ConnectedNoteIDs>19, 25</ConnectedNoteIDs>
+        </Note>
+        <Note ID="25" FontSize="12.0" Position="176.554688,620.316406" Width="200.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>Informationen zu fachübergreifenden oder allgemeinen Problemlösungsmethoden
+Nicht die Lösung für "dieses" Problem, sondern "wie man das generell angehen kann" ("Vollständige Induktion als Beweistechnik")</String>
+            <ConnectedNoteIDs>24</ConnectedNoteIDs>
+        </Note>
+        <Note ID="26" FontSize="12.0" Position="357.703125,587.0" Width="200.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>Stufe 4: Inhaltsorientierte strategische Hilfe</String>
+            <ConnectedNoteIDs>19, 27</ConnectedNoteIDs>
+        </Note>
+        <Note ID="27" FontSize="12.0" Position="374.773438,648.082031" Width="200.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>Allgemeine Vorschläge zum Lösungsprozess, z.B. eine Methode, die bei etwas Nachdenken Lösungsansätze für die vorliegende Aufgabe bietet</String>
+            <ConnectedNoteIDs>26</ConnectedNoteIDs>
+        </Note>
+        <Note ID="28" FontSize="12.0" Position="429.597656,541.082031" Width="135.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>Stufe 5: Inhaltliche Hilfe</String>
+            <ConnectedNoteIDs>19, 29</ConnectedNoteIDs>
+        </Note>
+        <Note ID="29" FontSize="12.0" Position="546.222656,564.167969" Width="200.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>Hilfe, die unmittelbar zur Lösung führt
+Aber noch nicht: "hier ist die Lösung" ;-)</String>
+            <ConnectedNoteIDs>28</ConnectedNoteIDs>
+        </Note>
+        <Note ID="30" FontSize="12.0" Position="897.050781,482.269531" Width="139.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>SCENE(S) Simulationen</String>
+            <ConnectedNoteIDs>31-32</ConnectedNoteIDs>
+            <Formatting>
+                <FormatRange Bold="Yes">0,9</FormatRange>
+            </Formatting>
+        </Note>
+        <Note ID="31" FontSize="12.0" Position="775.421875,603.90625" Width="181.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>Drei (?) verschiedene Szenarien</String>
+            <ConnectedNoteIDs>30</ConnectedNoteIDs>
+        </Note>
+        <Note ID="32" FontSize="12.0" Position="976.0,565.0" Width="200.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>- Ideen sammeln
+- Überlegen, wie "fachspezifisch/konkret" vs. "allgemein"
+- Grundansatz: Hilfsbereitschaft der Nutzer*in ansprechen, interaktiv, evtl. als Dialogfolge mit Characters (für Mimik/Gestik)?
+- Starten mit Frage Student*in
+- Dann Diagnose, Festlegen eigener Antwort (von direkter Antwort bis zu Rückfragen wie "was hast Du denn schon gemacht? Was verstehst Du genau nicht? Was hast Du schon verstanden?")
+- Baumaufbau mit Dialogen zum Durchspielen
+
+"hier könnte es deutlich detaillierter/konkreter werden" ;-)</String>
+            <ConnectedNoteIDs>30</ConnectedNoteIDs>
+        </Note>
+    </Notes>
+    <BackgroundShapes></BackgroundShapes>
+    <AutoFit>0-5, 8, 11-12, 19-22, 28, 30-31</AutoFit>
+    <NoteStyles>
+        <Style Name="Bubble (Blue)" ID="A70E7A08-DF72-443A-817F-F4455B085914" AffectFontStyle="No" AffectAlignment="No" AffectTextColor="No" AffectNoteBody="Yes" AffectFade="No">
+            <BorderThickness>1</BorderThickness>
+            <BorderColor>0.561855 0.71062 0.779401</BorderColor>
+            <FillColor>0.702319 0.888276 0.974252</FillColor>
+        </Style>
+        <Style Name="Bubble (Green)" ID="E255A803-617E-43A4-B491-87B3448DFC6C" AffectFontStyle="No" AffectAlignment="No" AffectTextColor="No" AffectNoteBody="Yes" AffectFade="No">
+            <BorderThickness>1</BorderThickness>
+            <BorderColor>0.572684 0.758969 0.558154</BorderColor>
+            <FillColor>0.715855 0.948712 0.697692</FillColor>
+        </Style>
+        <Style Name="Bubble (Pink)" ID="2E2F4947-5988-4422-B89E-E61F096C26CF" AffectFontStyle="No" AffectAlignment="No" AffectTextColor="No" AffectNoteBody="Yes" AffectFade="No">
+            <BorderThickness>1</BorderThickness>
+            <BorderColor>0.794796 0.560965 0.58607</BorderColor>
+            <FillColor>0.957566 0.766747 0.999616</FillColor>
+        </Style>
+        <Style Name="Bubble (Red)" ID="DC9A3006-2C86-4757-A451-A8AF9B7F9366" AffectFontStyle="No" AffectAlignment="No" AffectTextColor="No" AffectNoteBody="Yes" AffectFade="No">
+            <BorderThickness>1</BorderThickness>
+            <BorderColor>0.794796 0.560965 0.58607</BorderColor>
+            <FillColor>0.993495 0.701207 0.732587</FillColor>
+        </Style>
+        <Style Name="Bubble (Yellow)" ID="39BB74AA-6E9F-4BE2-BA07-E7057DD288FA" AffectFontStyle="No" AffectAlignment="No" AffectTextColor="No" AffectNoteBody="Yes" AffectFade="No">
+            <BorderThickness>1</BorderThickness>
+            <BorderColor>0.798177 0.714184 0.522055</BorderColor>
+            <FillColor>0.997722 0.89273 0.652569</FillColor>
+        </Style>
+        <Style Name="Red Text" ID="3E4F1148-1374-48EC-B5AA-0A1510959371" AffectFontStyle="No" AffectAlignment="No" AffectTextColor="Yes" AffectNoteBody="No" AffectFade="No">
+            <TextColor>0.985948 0.0 0.026951</TextColor>
+        </Style>
+        <Style Name="Title Text" ID="34EA3A16-00F9-477E-BC3C-F004D4A1E343" AffectFontStyle="Yes" AffectAlignment="Yes" AffectTextColor="No" AffectNoteBody="No" AffectFade="No">
+            <FontSize>28.0</FontSize>
+            <IsBold>Yes</IsBold>
+        </Style>
+    </NoteStyles>
+    <UISettings>
+        <BackgroundColor>0.999767 0.98837 0.949907</BackgroundColor>
+        <DefaultFont>Helvetica</DefaultFont>
+        <DefaultTextColor>0.0 0.0 0.0</DefaultTextColor>
+    </UISettings>
+    <PrintSettings PaperSize="595.0,842.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="iso-a4" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"></PrintSettings>
+</ScappleDocument>
