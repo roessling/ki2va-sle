@@ -1,0 +1,55 @@
+﻿TO DO SLE "Wie im richtigen Leben"
+
+[x] Lehrziele knapp hinterlegt: "super"
+  => kein Handlungsbedarf
+  
+[x] Wieso bei "Kategoriendenken" klicken statt Hover?
+  => GR: schon angepasst (via "Edit Hyperlink").
+   
+[ ] "…" durch "Sexuelle Orientierung" ersetzen?
+  => GR: eher nicht, "fehlt zwar" (verglichen mit Beschreibung links), 
+     gibt aber nicht wieder, was hier gedacht ist. 
+     Vielleicht konkreterer Text in Box, 1-2 Bsp.?
+     
+[x] TUD => TU Darmstadt auf 1.2
+  => GR: erledigt
+  
+[x] 1.3 TUD => TU Darmstadt (done @360)
+  => GR: erledigt
+
+[ ] 1.3 Klarstellen, dass hier Zuteilung erfolgt, nicht "Auswahl"? 
+  => Diskutieren: evtl. auf zwei Folien aufteilen oder langt Button "Persona zuteilen"?
+  
+[x] 1.3 Weiter-Problem Henrike gelöst
+  => GR: erledigt
+
+[x] 1.3 "nicht selten", Formulierung Schwierigkeiten
+  => GR: erledigt
+  
+[x] 1.5 wieso "(fast) vollständig", wenn doch "ganz" angeklickt?
+  => GR: war zwar korrekt, aber eher irritierend. Nun in "vollständig (oder fast vollständig)"
+    angepasst.
+    
+[ ] Question Bank 2: einige Personas umstellen von heterosexuell? 
+  => GR: Vorschlag zur Anpassung Frank und Pia auf homosexuell. Würde das die Bewertungen
+     deutlich beeinflussen (Frage 16, 19)?
+     
+[x] @Person Aaron: HRZ ausschreiben (done @360)
+  => GR: erledigt
+
+[ ] Text auf letzter Seite zu lang
+  => GR: vielleicht auf eigener Seite, hier nur die ersten zwei Sätze plus
+  "Klicken Sie die einzelnen Personas an, um mehr Informationen über sie zu erhalten"
+  und auf Extrafolie Resttext angeben?
+  
+[ ] Sollte man erklären, was das "Voranschreiten" bedeutet?
+  => GR Diskutieren, ob nach "Erklärung des weiteren Vorgehens" noch eine Zwischenseite, 
+     die erklärt, dass auch sechs andere "Personas" die Fragen aus ihrer persönlichen
+     Sicht beantwortet haben und man sich damit mit diesen vergleichen kann; durch
+     Anklicken erhält man jederzeit Informationen zur Persona)?
+     
+[ ] "Danke"-Folie am Ende, nicht direkt zum Anfang zurückspringen
+  => GR: klingt sinnvoll
+  
+[x] Süngül: eher "verheiratet" als "unverheiratet"
+  => GR: erledigt
