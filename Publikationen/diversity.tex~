@@ -91,5 +91,5 @@ This work was funded by the German Federal Ministry of Education and Research as
 \end{acks}
 
 \bibliographystyle{ACM-Reference-Format}
-\bibliography{iticse18}
+%\bibliography{iticse18}
 \end{document}
