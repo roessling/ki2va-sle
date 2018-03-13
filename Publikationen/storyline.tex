@@ -1,0 +1,105 @@
+	%\documentclass[sigconf,anonymous]{acmart}
+\documentclass[sigconf]{acmart}
+\begin{document}
+
+\acmConference[ITiCSE'18]{Innovation and Technology in Computer Science Education}{July 2--4, 2018}{Larnaca, Cyprus}
+
+\title{Creating Interactive Online Courses With Articulate 360}
+
+\author{Guido R\"o\ss{}ling}
+\email{roessling@acm.org}
+\affiliation[obeypunctuation=true]{
+  \institution{TU Darmstadt, CS Dept.}\\
+  \streetaddress{Hochschulstr. 10}
+  \postcode{64289}
+  \city{Darmstadt},
+  \country{Germany}
+}
+\author{Felix Broj}
+\email{broj.fe@kiva.tu-darmstadt.de}
+\affiliation[obeypunctuation=true]{
+  \institution{TU Darmstadt, Pedagogy Dept.}\\
+  \streetaddress{Alexanderstr. 23}
+  \postcode{64289}
+  \city{Darmstadt},
+  \country{Germany}
+}
+\begin{CCSXML}
+<ccs2012>
+<concept>
+<concept_id>10003456.10003457.10003527.10003531.10003533</concept_id>
+<concept_desc>Social and professional topics~Computer science education</concept_desc>
+<concept_significance>500</concept_significance>
+</concept>
+</ccs2012>
+\end{CCSXML}
+
+\ccsdesc[500]{Social and professional topics~Computer science education}
+\keywords{Articulate 360, online course, interactive, self-training}
+
+\begin{abstract}
+Slide-based lectures are not the optimal approach for learning new content or rehearsing materials for
+all students. An alternative is using online courses, which allow students to proceed at their own pace.
+We discuss a software package that allows flexible interactivity and thus gives students a chance to
+actively participate and to easily measure their level of understanding. 
+\end{abstract}
+
+\maketitle
+
+\section{Creating Interactive Online Courses Using Articulate Storyline}
+
+Online materials of different kinds have become a common addition to current teaching. However, many
+online materials are non-interactive, for example copies, lecture recordings or YouTube
+videos. This may cause the students accessing the materials to be mostly passive, and thus less
+engaged, as they have no proper way to adapt the materials to their level of understanding,
+apart from skipping ahead or pausing the materials as needed.
+
+Creating interactive course materials may appear to be a daunting challenge, in terms of invested
+time and money and perceived required skills. This impression is often correct: software that can
+make content lively and interesting, such as GoAnimate for creating short videos with animated
+characters \cite{GoAnimate}, often has a limited scope but already a moderately high price. 
+Other approaches, for example the quiz options integrated into current learning management systems
+such as Moodle \cite{Moodle}, are too limited in scope to allow much flexibility. More advanced
+features, such as the Moodle ``lesson'' activity which allows branching depending on the user's answer
+to questions, can easily lead to dead-ends or unexpected results on branching, as there is no visualization 
+of the ``branching graph''.
+
+Based on our experience, many of these issues can be overcome when using Articulate 360
+\cite{Storyline}, a commercial tool with a yearly subscription price of currently \$499 per user
+with an academic discount. With a GUI that is similar to Microsoft PowerPoint, learning to use
+Storyline to build a ``story'' out of existing slides or from scratch is not hard. Beyond the functionality
+of PowerPoint, Storyline 360 offers the following (incomplete) set of interesting features for
+interactive courses that we have used to build several course units for self-study purposes:
+
+\begin{itemize}
+\item boolean, numeric, and String variables to remember past actions or input, such as the user's  
+name, current score, or last action(s) chosen,
+\item arbitrary branching is possible on each slide, based on different user actions (such as
+clicking on a concrete button), or the current values of variables,
+\item each slide can have an arbitrary number of layers that overlay the basic layer with (different) pieces of
+information and reduce the number of required slides,
+\item a decent ``scene view'' in which the structure of a story is visualized and the branching is clearly
+shown,
+\item photographic or illustrated characters in a large set of different poses and with different
+facial expressions and gestures,
+\item the ability to modify a character's state based on user actions or variable values. For example,
+a ``bad choice'' can be used to give the character a disapproving expression,
+providing additional visual clues to the quality of the user's choice,
+\item a large set of predefined automatically graded quizzes, including drag and drop as well as ``free form''
+quizzes based on the correct arrangement of arbitrary screen elements,
+\item the ability to record the screen and use this recoding as a direct playback, a segmented tutorial
+video, or an interactive ``click after me'' tutorial (with automatically generated hints).
+\item the courses can be embedded on a web server, inside an LMS such as Moodle \cite{Moodle}
+or published on a web-based reviewing platform where any user can comment on the contents if the
+link was shared and they register with their mail address.
+\end{itemize}
+
+\begin{acks}
+This work was funded by the German Federal Ministry of Education and Research as part of the 
+``Competence Development through Interdisciplinary and International Cooperation from the Start
+(K$\mathrm{I^2}$VA)'' project at the TU Darmstadt, Germany.
+\end{acks}
+
+\bibliographystyle{ACM-Reference-Format}
+\bibliography{iticse18}
+\end{document}
