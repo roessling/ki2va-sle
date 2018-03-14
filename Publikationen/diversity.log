@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2018.2.16)  13 MAR 2018 18:28
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2018.2.16)  14 MAR 2018 19:28
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1000,20 +1000,10 @@ Package hyperref Warning: Option `pdflang' has already been used,
 Package hyperref Warning: Option `pdfdisplaydoctitle' has already been used,
 (hyperref)                setting the option has no effect on input line 47.
 
-
-Overfull \hbox (3.68625pt too wide) in paragraph at lines 78--82
-\T1/LinuxLibertineT-TLF/m/n/9 (-20) for the di-verse stu-dent body and a re-que
-st to make sure that students--
- []
-
-
-Overfull \hbox (2.59016pt too wide) in paragraph at lines 78--82
-\T1/LinuxLibertineT-TLF/m/n/9 (-20) usually through no fault or de-ci-sion of t
-heir own--have equal chances.
- []
-
 LaTeX Font Info:    Font shape `OT1/LinuxLibertineT-TLF/m/n' will be
-(Font)              scaled to size 9.0pt on input line 83.
+(Font)              scaled to size 9.0pt on input line 88.
+LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/it' will be
+(Font)              scaled to size 9.0pt on input line 89.
 Processing 'acks' comment.
 \openout4 = `comment.cut'.
 
@@ -1022,11 +1012,11 @@ Straight input of comment.cut. (./comment.cut) [1.1{/usr/local/texlive/2017/tex
 mf-var/fonts/map/pdftex/updmap/pdftex.map}
 
 ]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 95.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 95.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 101.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 101.
  (./diversity.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 95.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 95.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 101.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 101.
 Package rerunfilecheck Info: File `diversity.out' has not changed.
 (rerunfilecheck)             Checksum: 249C2FFF5535AE78F1DE387710E89267;494.
 
@@ -1036,11 +1026,11 @@ LaTeX Font Warning: Size substitutions with differences
 
  ) 
 Here is how much of TeX's memory you used:
- 17732 strings out of 492982
- 267708 string characters out of 6132527
+ 17736 strings out of 492982
+ 267842 string characters out of 6132527
  379539 words of memory out of 5000000
- 20660 multiletter control sequences out of 15000+600000
- 114184 words of font info for 192 fonts, out of 8000000 for 9000
+ 20662 multiletter control sequences out of 15000+600000
+ 119685 words of font info for 193 fonts, out of 8000000 for 9000
  1302 hyphenation exceptions out of 8191
  60i,11n,94p,812b,426s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2017/texmf-dist/fonts/enc/dvips/libertine/lbtn_oexx6f.enc
@@ -1054,10 +1044,10 @@ r/local/texlive/2017/texmf-dist/fonts/type1/public/libertine/LinBiolinumTB.pfb>
 pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/libertine/LinLiberti
 neTB.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/libertine/LinLi
 bertineTI.pfb>
-Output written on diversity.pdf (1 page, 304417 bytes).
+Output written on diversity.pdf (1 page, 304641 bytes).
 PDF statistics:
  65 PDF objects out of 1000 (max. 8388607)
  48 compressed objects within 1 object stream
  5 named destinations out of 1000 (max. 500000)
- 38949 words of extra memory for PDF output out of 42996 (max. 10000000)
+ 43045 words of extra memory for PDF output out of 51595 (max. 10000000)
 
