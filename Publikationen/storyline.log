@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2018.2.16)  14 MAR 2018 18:08
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2018.2.15)  15 MAR 2018 09:29
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -37,6 +37,7 @@ Package acmart Info: Explicitly selecting natbib mode on input line 106.
 Package acmart Info: Not using anonymous mode on input line 114.
 Package acmart Info: Not using timestamp mode on input line 122.
 Package acmart Info: Not using authordraft mode on input line 132.
+Package acmart Info: Using anonymous mode on input line 141.
 Class acmart Info: Using format sigconf, number 4 on input line 141.
 Class acmart Info: Using fontsize 9pt on input line 199.
 
@@ -105,8 +106,8 @@ LaTeX Info: Redefining \] on input line 2818.
 )
 LaTeX Font Info:    Try loading font information for U+msa on input line 398.
 
-(/Users/roessling/Library/texmf/tex/latex/umsa.fd
-File: Umsa.fd 1995/01/05 v2.2e AMS font definitions
+(/usr/local/texlive/2017/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
 (/usr/local/texlive/2017/texmf-dist/tex/latex/amsfonts/amsfonts.sty
 Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
@@ -716,7 +717,7 @@ LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/n' will be
 )
 \c@theorem=\count128
  Excluding comment 'screenonly' Include comment 'printonly'
-Include comment 'anonsuppress' (./storyline.aux)
+Excluding comment 'anonsuppress' Excluding comment 'acks' (./storyline.aux)
 \openout1 = `storyline.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/nxlmi/m/it on input line 3.
@@ -786,22 +787,17 @@ LaTeX Font Info:    Font shape `OT1/LinuxLibertineT-TLF/m/n' will be
 (Font)              scaled to size 5.5pt on input line 3.
 <<oml.cmap>>
 LaTeX Font Info:    Try loading font information for U+msa on input line 3.
- (/Users/roessling/Library/texmf/tex/latex/umsa.fd
-File: Umsa.fd 1995/01/05 v2.2e AMS font definitions
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-
-LaTeX Font Warning: Font shape `U/msa/m/n' in size <5.5> not available
-(Font)              size <5> substituted on input line 3.
-
 LaTeX Font Info:    Try loading font information for U+msb on input line 3.
-(/Users/roessling/Library/texmf/tex/latex/umsb.fd
-File: Umsb.fd 1995/01/05 v2.2e AMS font definitions
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-
-LaTeX Font Warning: Font shape `U/msb/m/n' in size <5.5> not available
-(Font)              size <5> substituted on input line 3.
-
 LaTeX Font Info:    Try loading font information for U+ntxmia on input line 3.
+
 (/usr/local/texlive/2017/texmf-dist/tex/latex/newtx/untxmia.fd
 File: untxmia.fd 2016/01/31 Fontinst v1.933 font definitions for U/ntxmia.
 )
@@ -947,18 +943,6 @@ LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/n' will be
 (Font)              scaled to size 12.0pt on input line 48.
 LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/n' will be
 (Font)              scaled to size 10.0pt on input line 48.
-LaTeX Font Info:    Font shape `OT1/LinuxLibertineT-TLF/m/n' will be
-(Font)              scaled to size 10.0pt on input line 48.
-Package microtype Info: Loading generic protrusion settings for font family
-(microtype)             `LinuxLibertineT-TLF' (encoding: OT1).
-(microtype)             For optimal results, create family-specific settings.
-(microtype)             See the microtype manual for details.
- (/usr/local/texlive/2017/texmf-dist/tex/latex/microtype/mt-msa.cfg
-File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
-)
-(/usr/local/texlive/2017/texmf-dist/tex/latex/microtype/mt-msb.cfg
-File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
-)
 LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/it' will be
 (Font)              scaled to size 7.0pt on input line 48.
 LaTeX Font Info:    Try loading font information for TS1+LinuxLibertineT-TLF on
@@ -989,9 +973,18 @@ LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/it' will be
 (Font)              scaled to size 8.0pt on input line 48.
 LaTeX Font Info:    Font shape `OT1/LinuxLibertineT-TLF/m/n' will be
 (Font)              scaled to size 8.0pt on input line 48.
+Package microtype Info: Loading generic protrusion settings for font family
+(microtype)             `LinuxLibertineT-TLF' (encoding: OT1).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
 LaTeX Font Info:    Font shape `OT1/LinuxLibertineT-TLF/m/n' will be
 (Font)              scaled to size 6.2pt on input line 48.
-
+ (/usr/local/texlive/2017/texmf-dist/tex/latex/microtype/mt-msa.cfg
+File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/microtype/mt-msb.cfg
+File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
+)
 
 Package hyperref Warning: Option `pdflang' has already been used,
 (hyperref)                setting the option has no effect on input line 48.
@@ -1001,51 +994,42 @@ Package hyperref Warning: Option `pdfdisplaydoctitle' has already been used,
 (hyperref)                setting the option has no effect on input line 48.
 
 LaTeX Font Info:    Font shape `OT1/LinuxLibertineT-TLF/m/n' will be
-(Font)              scaled to size 9.0pt on input line 76.
-Processing 'acks' comment.
-\openout4 = `comment.cut'.
-
- Comment 'acks' writing to comment.cut.
-Straight input of comment.cut. (./comment.cut) (./storyline.bbl) [1.1{/usr/loca
-l/texlive/2017/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
+(Font)              scaled to size 9.0pt on input line 79.
+Excluding 'acks' comment. (./storyline.bbl) [1.1{/Users/roessling/Library/texli
+ve/2017/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
 
 ]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 106.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 106.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 109.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 109.
  (./storyline.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 106.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 106.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 109.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 109.
 Package rerunfilecheck Info: File `storyline.out' has not changed.
-(rerunfilecheck)             Checksum: 8D5BB632AD36804DAAE6A9AEEDFF4BC8;681.
-
-LaTeX Font Warning: Size substitutions with differences
-(Font)              up to 0.5pt have occurred.
-
+(rerunfilecheck)             Checksum: E80E5D2EC3128FDB80D503FF758A83ED;562.
  ) 
 Here is how much of TeX's memory you used:
- 17743 strings out of 492982
- 267627 string characters out of 6132527
- 381634 words of memory out of 5000000
- 20682 multiletter control sequences out of 15000+600000
- 112944 words of font info for 182 fonts, out of 8000000 for 9000
+ 17687 strings out of 492982
+ 266513 string characters out of 6132527
+ 380572 words of memory out of 5000000
+ 20659 multiletter control sequences out of 15000+600000
+ 106020 words of font info for 159 fonts, out of 8000000 for 9000
  1302 hyphenation exceptions out of 8191
- 60i,11n,94p,812b,426s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/local/texlive/2017/texmf-dist/fonts/enc/dvips/libertine/lbtn_oexx6f.enc
-}{/usr/local/texlive/2017/texmf-dist/fonts/enc/dvips/libertine/lbtn_7grukw.enc}
-{/usr/local/texlive/2017/texmf-dist/fonts/enc/dvips/libertine/lbtn_naooyc.enc}{
-/usr/local/texlive/2017/texmf-dist/fonts/enc/dvips/libertine/lbtn_nh77jq.enc}{/
-usr/local/texlive/2017/texmf-dist/fonts/enc/dvips/libertine/lbtn_76gpa5.enc}{/u
-sr/local/texlive/2017/texmf-dist/fonts/enc/dvips/libertine/lbtn_25tcsq.enc}</us
-r/local/texlive/2017/texmf-dist/fonts/type1/public/libertine/LinBiolinumTB.pfb>
-</usr/local/texlive/2017/texmf-dist/fonts/type1/public/libertine/LinLibertineT.
-pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/libertine/LinLiberti
-neTB.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/libertine/LinLi
-bertineTI.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/newtx/txsy
-s.pfb>
-Output written on storyline.pdf (1 page, 316606 bytes).
+ 60i,11n,94p,812b,395s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/local/texlive/2017/texmf-dist/fonts/enc/dvips/libertine/lbtn_7grukw.enc
+}{/usr/local/texlive/2017/texmf-dist/fonts/enc/dvips/libertine/lbtn_naooyc.enc}
+{/usr/local/texlive/2017/texmf-dist/fonts/enc/dvips/libertine/lbtn_nh77jq.enc}{
+/usr/local/texlive/2017/texmf-dist/fonts/enc/dvips/libertine/lbtn_76gpa5.enc}{/
+usr/local/texlive/2017/texmf-dist/fonts/enc/dvips/libertine/lbtn_25tcsq.enc}</u
+sr/local/texlive/2017/texmf-dist/fonts/type1/public/libertine/LinBiolinumTB.pfb
+></usr/local/texlive/2017/texmf-dist/fonts/type1/public/libertine/LinLibertineT
+.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/libertine/LinLibert
+ineTB.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/libertine/LinL
+ibertineTI.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/newtx/txs
+ys.pfb>
+Output written on storyline.pdf (1 page, 312600 bytes).
 PDF statistics:
- 83 PDF objects out of 1000 (max. 8388607)
- 64 compressed objects within 1 object stream
- 9 named destinations out of 1000 (max. 500000)
- 38957 words of extra memory for PDF output out of 42996 (max. 10000000)
+ 75 PDF objects out of 1000 (max. 8388607)
+ 57 compressed objects within 1 object stream
+ 8 named destinations out of 1000 (max. 500000)
+ 32805 words of extra memory for PDF output out of 35830 (max. 10000000)
 
