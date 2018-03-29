@@ -1,5 +1,5 @@
-%\documentclass[sigconf,anonymous]{acmart}
-\documentclass[sigconf]{acmart}
+\documentclass[sigconf,anonymous]{acmart}
+%\documentclass[sigconf]{acmart}
 \begin{document}
 
 \acmConference[ITiCSE'18]{Innovation and Technology in Computer Science Education}{July 2--4, 2018}{Larnaca, Cyprus}
@@ -7,7 +7,7 @@
 \title{An Interactive Online Course to Raise Awareness about Diversity}
 
 \author{Guido R\"o\ss{}ling}
-\email{roessling.gu@kiva.tu-darmstadt.de}
+\email{roessling@acm.org}
 \affiliation[obeypunctuation=true]{
   \institution{TU Darmstadt, CS Dept.}\\
   \streetaddress{Hochschulstr. 10}
@@ -16,7 +16,7 @@
   \country{Germany}
 }
 \author{Felix Broj}
-\email{broj.fe@kiva.tu-darmstadt.de}
+\email{f.broj@apaed.tu-darmstadt.de}
 \affiliation[obeypunctuation=true]{
   \institution{TU Darmstadt, Pedagogy Dept.}\\
   \streetaddress{Alexanderstr. 23}
@@ -38,49 +38,66 @@
 \keywords{online course, interactive, self-training, diversity, awareness}
 
 \begin{abstract}
-Diversity is sometimes understood narrowly, by viewing only gender and racial aspects.
-However, there are far more aspects to diversity that can affect the chances to study successfully,
-in some cases only indirectly or subtly. We present a small self-contained online course for raising
-awareness of some additional aspects of diversity, without admonishing users or prescribing attitudes.
+Diversity is sometimes understood narrowly, by focusing on only one or two categories,
+such as gender or race. Following the concept of intersectionality, there are far more
+aspects to diversity that can affect students' success, in some cases only indirectly or
+subtly. We present a small self-contained online course for raising awareness of
+some additional aspects of diversity, without admonishing users or prescribing attitudes.
 \end{abstract}
 
 \maketitle
 
 \section{An Interactive Online Course about Diversity}
 
-Diversity has, as the name indicates, many different aspects. Gender and racial background, while arguably the most
-common aspects, are only facets of diversity. Other aspects include, but are not limited to, disabilities, the sense of
-national, ethnical and/or cultural identity, religious backgrounds--both concerning the actual personal belief system
-and the degree to which one identifies with central tenets--, social and economical background, sexual disposition, and
-finally age.
+Diversity has, as the name indicates, many different aspects. Gender and racial
+background, while arguably the most common aspects, are only facets of diversity. Other
+concepts of diversity include, but are not limited to, disabilities, the sense of
+national, ethnical and/or cultural identity, religious backgrounds, social and economic
+background, sexual disposition, and finally age.
 
-In many cases, courses or programmes seem to expect an ``average student'' to which certain attributes are ascribed: not having 
-a disability, a citizen of the university's nation, adhering to the predominant local religion, coming from a financially
-stable background, heterosexual, and of ``typical age'' for a student. In other words, the ``average student'' is essentially your
-average John or Jane, comparable to ``all others of the same age''. This is in itself a fallacy, and the reality is of course far
-more diverse than anticipated.
+In many cases, courses or programmes seem to expect an ``average student'' to which
+certain attributes are ascribed: not having  a disability, a citizen of the university's nation,
+adhering to the predominant local religion, coming from a financially stable background,
+heterosexual, and of ``typical age'' for a student. In other words, the ``average student''
+is essentially the ``average John or Jane'', comparable to ``all others of the same age''.
+This is in itself a fallacy, and the reality is of course far more complex and diverse than
+one may anticipate.
 
-Our course presents a set of six personas--not actually persons, but fictional characters that however could easily be found on
-any campus. Each of these personas provides information on his or her background: given name, age, information about their
-relationship or living status, national, ethnical and cultural background, religion, parents, field of study, and a few lines of additional
-background information. Each fictional personal should feel like someone one could meet on campus.
+Our course presents a set of six ``personas'' representing fictional characters. The
+personas are not based on actual students, but are assembled based on a large
+university survey. Thus, students just like our personas are likely to exist.
+We have made sure that the personas diverge to varying degrees from stereotypical expectations
+of a ``typical'' student. Each of these personas provides some background information, including the
+given name, age, information about their sex, gender and desire, national, ethnic and
+cultural background, religion, parents, field of study, and a few lines of additional
+background information. In essence, each of these fictional personas
+should feel like someone one could meet on campus.
 
-The user is then randomly assigned one of these personas and asked to rate 20 questions for this persona with
-agreement, undecided or disagreement. Each answer is awarded 2, 1 or 0 points, thus up to 40 points can be achieved by a student
-that perfectly agrees with each statement. The statements are chosen based on a diversity study and indicate--though in several
-cases subtly--differences between students, for example based on financial backgrounds, the relationship to parents, or social
-obligations that cut into the time available for studying (or leisure). Both the user's persona's portray and six additional
-other persona--separate from those from which the user persona is chosen--progress from the bottom of the screen towards the top,
-depending on the respective answer score. In this way, the user can easily see that the ``staging area'' for students based on these
-questions is highly uneven: at the end, the six other personas will have a (predetermined) score between 7 and 17, with the user's
-persona typically falling somewhere between these extremes.
+The user is then randomly assigned one of these personas and asked to rate 20
+statements for this persona with agreement, undecided or disagreement. Each answer
+is assigned 2, 1 or 0 points, thus up to 40 points can be gathered by a student
+that perfectly agrees with each statement. The statements were developed from a
+related diversity method and indicate---though in several cases subtle---differences
+in students' lives on campus, for example based on financial backgrounds, the relationship
+to parents, or social obligations that cut into the time available for studying
+(or leisure). Both the avatar for the persona assigned to the user  and six additional
+other personas---separate from those from which the user persona is chosen---progress
+from the bottom of the screen towards the top, depending on the respective answer
+score. In this way, the user can easily see that the results for the personas based
+on these statements is highly uneven: at the end, the six other personas will have a
+(predetermined) score between 13 and 37, with the user's persona typically falling
+somewhere between these extremes.
 
-The course closes with a chance to reflect on the different chances for the diverse student body and a request to make sure that
-students--usually through no fault or decision of their own--have equal chances. We hope that this will encourage students to reflect 
-on the different characteristics of other students, and open their minds to diversity aspects and the advantages--and disadvantages--that
-certain expectations or societal expectations convey.
+The course closes with a chance to reflect on the different starting points of a diverse
+student body. Teaching assistants and academics are requested to make sure that the diversity of our
+students--usually through no fault or decision of their own--does not have a negative
+impact on their academic success. The course shall also be used in our forthcoming
+student TA trainings. We hope that the course will encourage students to reflect
+on the different characteristics of other students, and open their minds to diversity aspects and the
+advantages--and disadvantages--that certain situations or societal expectations convey.
 
-The course is available at \url{URL disclosed for anonymous review} for viewing and commenting to anybody interested.
+The course is available at \url{https://hidden.for.review} for viewing and commenting. Currently, it is
+only available in \emph{HiddenLanguage}, but we plan to provide an English version in time for ITiCSE'18.
 
 %\setcitestyle{acmnumeric}
 

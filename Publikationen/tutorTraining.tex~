@@ -1,5 +1,5 @@
-%\documentclass[sigconf,anonymous]{acmart}
-\documentclass[sigconf,screen]{acmart}
+\documentclass[sigconf,anonymous]{acmart}
+%\documentclass[sigconf]{acmart}
 \begin{document}
 
 \acmConference[ITiCSE'18]{Innovation and Technology in Computer Science Education}{July 2--4, 2018}{Larnaca, Cyprus}
