@@ -37,21 +37,21 @@
 \providecommand\natexlab[1]{#1}
 \providecommand\showeprint[2][]{arXiv:#2}
 
-\bibitem[\protect\citeauthoryear{Estrada and Tafliovich}{Estrada and
-  Tafliovich}{2017}]%
-        {Estrada:2017:BGD:3059009.3059023}
-\bibfield{author}{\bibinfo{person}{Francisco~J. Estrada} {and}
-  \bibinfo{person}{Anya Tafliovich}.} \bibinfo{year}{2017}\natexlab{}.
-\newblock \showarticletitle{Bridging the Gap Between Desired and Actual
-  Qualifications of Teaching Assistants: An Experience Report}. In
-  \bibinfo{booktitle}{\emph{Proceedings of the 2017 ACM Conference on
-  Innovation and Technology in Computer Science Education}}
-  \emph{(\bibinfo{series}{ITiCSE '17})}. \bibinfo{publisher}{ACM},
-  \bibinfo{address}{New York, NY, USA}, \bibinfo{pages}{134--139}.
+\bibitem[\protect\citeauthoryear{Forbes, Malan, Pon-Barry, Reges, and
+  Sahami}{Forbes et~al\mbox{.}}{2017}]%
+        {Forbes:2017:SIC:3017680.3017694}
+\bibfield{author}{\bibinfo{person}{Jeffrey Forbes}, \bibinfo{person}{David~J.
+  Malan}, \bibinfo{person}{Heather Pon-Barry}, \bibinfo{person}{Stuart Reges},
+  {and} \bibinfo{person}{Mehran Sahami}.} \bibinfo{year}{2017}\natexlab{}.
+\newblock \showarticletitle{Scaling Introductory Courses Using Undergraduate
+  Teaching Assistants}. In \bibinfo{booktitle}{\emph{Proceedings of the 2017
+  ACM SIGCSE Technical Symposium on Computer Science Education}}
+  \emph{(\bibinfo{series}{SIGCSE '17})}. \bibinfo{publisher}{ACM},
+  \bibinfo{address}{New York, NY, USA}, \bibinfo{pages}{657--658}.
 \newblock
-\showISBNx{978-1-4503-4704-4}
+\showISBNx{978-1-4503-4698-6}
 \urldef\tempurl%
-\url{https://doi.org/10.1145/3059009.3059023}
+\url{https://doi.org/10.1145/3017680.3017694}
 \showDOI{\tempurl}
 
 

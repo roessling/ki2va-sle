@@ -1,22 +1,3 @@
-@inproceedings{Forbes:2017:SIC:3017680.3017694,
- author = {Forbes, Jeffrey and Malan, David J. and Pon-Barry, Heather and Reges, Stuart and Sahami, Mehran},
- title = {Scaling Introductory Courses Using Undergraduate Teaching Assistants},
- booktitle = {Proceedings of the 2017 ACM SIGCSE Technical Symposium on Computer Science Education},
- series = {SIGCSE '17},
- year = {2017},
- isbn = {978-1-4503-4698-6},
- location = {Seattle, Washington, USA},
- pages = {657--658},
- numpages = {2},
- url = {http://doi.acm.org/10.1145/3017680.3017694},
- doi = {10.1145/3017680.3017694},
- acmid = {3017694},
- publisher = {ACM},
- address = {New York, NY, USA},
- keywords = {peer teaching, undergraduate teaching assistants},
-} 
-
-
 @inproceedings{Garrod:2016:MST:2839509.2850480,
  author = {Garrod, Charles and Forbes, Jeffrey and Lewis, Colleen and Osera, Peter-Michael},
  title = {Mentoring Student Teaching Assistants for Computer Science (Abstract Only)},

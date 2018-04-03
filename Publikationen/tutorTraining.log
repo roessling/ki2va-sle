@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2018.2.15)  29 MAR 2018 11:24
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2018.2.15)  3 APR 2018 11:55
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -997,30 +997,31 @@ Package hyperref Warning: Option `pdflang' has already been used,
 Package hyperref Warning: Option `pdfdisplaydoctitle' has already been used,
 (hyperref)                setting the option has no effect on input line 42.
 
-LaTeX Font Info:    Font shape `OT1/LinuxLibertineT-TLF/m/n' will be
-(Font)              scaled to size 9.0pt on input line 70.
 Processing 'acks' comment.
 \openout4 = `comment.cut'.
 
  Comment 'acks' writing to comment.cut.
-Straight input of comment.cut. (./comment.cut) (./tutorTraining.bbl) [1.1{/User
-s/roessling/Library/texlive/2017/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
+Straight input of comment.cut. (./comment.cut
+LaTeX Font Info:    Font shape `OT1/LinuxLibertineT-TLF/m/n' will be
+(Font)              scaled to size 9.0pt on input line 3.
+) (./tutorTraining.bbl) [1.1{/Users/roessling/Library/texlive/2017/texmf-var/fo
+nts/map/pdftex/updmap/pdftex.map}
 
 ]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 112.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 112.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 141.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 141.
 (./tutorTraining.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 112.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 112.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 141.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 141.
 Package rerunfilecheck Info: File `tutorTraining.out' has not changed.
-(rerunfilecheck)             Checksum: 84590F9BB763ECAA21A1B727E9DC1685;482.
+(rerunfilecheck)             Checksum: 707769962FAC94DE36558B2134A52F00;765.
  ) 
 Here is how much of TeX's memory you used:
- 17739 strings out of 492982
- 267836 string characters out of 6132527
- 380556 words of memory out of 5000000
- 20680 multiletter control sequences out of 15000+600000
- 113733 words of font info for 187 fonts, out of 8000000 for 9000
+ 17741 strings out of 492982
+ 267859 string characters out of 6132527
+ 379573 words of memory out of 5000000
+ 20682 multiletter control sequences out of 15000+600000
+ 113051 words of font info for 185 fonts, out of 8000000 for 9000
  1302 hyphenation exceptions out of 8191
  60i,11n,94p,816b,426s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2017/texmf-dist/fonts/enc/dvips/libertine/lbtn_oexx6f.enc
@@ -1033,12 +1034,11 @@ r/local/texlive/2017/texmf-dist/fonts/type1/public/libertine/LinBiolinumTB.pfb>
 </usr/local/texlive/2017/texmf-dist/fonts/type1/public/libertine/LinLibertineT.
 pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/libertine/LinLiberti
 neTB.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/libertine/LinLi
-bertineTI.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/newtx/txsy
-s.pfb>
-Output written on tutorTraining.pdf (1 page, 316479 bytes).
+bertineTI.pfb>
+Output written on tutorTraining.pdf (1 page, 307322 bytes).
 PDF statistics:
- 79 PDF objects out of 1000 (max. 8388607)
- 60 compressed objects within 1 object stream
- 7 named destinations out of 1000 (max. 500000)
- 38957 words of extra memory for PDF output out of 42996 (max. 10000000)
+ 82 PDF objects out of 1000 (max. 8388607)
+ 65 compressed objects within 1 object stream
+ 9 named destinations out of 1000 (max. 500000)
+ 38973 words of extra memory for PDF output out of 42996 (max. 10000000)
 
