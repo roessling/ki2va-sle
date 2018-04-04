@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2018.2.15)  3 APR 2018 13:32
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2018.2.15)  4 APR 2018 08:07
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1016,11 +1016,11 @@ Package rerunfilecheck Info: File `diversity.out' has not changed.
 (rerunfilecheck)             Checksum: 249C2FFF5535AE78F1DE387710E89267;494.
  ) 
 Here is how much of TeX's memory you used:
- 17721 strings out of 492982
- 267561 string characters out of 6132527
+ 17724 strings out of 492982
+ 267633 string characters out of 6132527
  380473 words of memory out of 5000000
  20659 multiletter control sequences out of 15000+600000
- 113893 words of font info for 190 fonts, out of 8000000 for 9000
+ 114166 words of font info for 192 fonts, out of 8000000 for 9000
  1302 hyphenation exceptions out of 8191
  60i,11n,94p,812b,426s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2017/texmf-dist/fonts/enc/dvips/libertine/lbtn_oexx6f.enc
@@ -1034,7 +1034,7 @@ r/local/texlive/2017/texmf-dist/fonts/type1/public/libertine/LinBiolinumTB.pfb>
 pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/libertine/LinLiberti
 neTB.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/libertine/LinLi
 bertineTI.pfb>
-Output written on diversity.pdf (1 page, 304867 bytes).
+Output written on diversity.pdf (1 page, 304878 bytes).
 PDF statistics:
  65 PDF objects out of 1000 (max. 8388607)
  48 compressed objects within 1 object stream
