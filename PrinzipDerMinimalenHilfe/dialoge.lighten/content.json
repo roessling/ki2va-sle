@@ -1,0 +1,1118 @@
+{
+  "rightNumber" : 2,
+  "style" : {
+    "lineColor" : "{136, 180, 225, 1.00}",
+    "fontName" : "Noteworthy",
+    "fontStyle" : "normal",
+    "fontWeight" : "normal",
+    "fontFamily" : "Noteworthy",
+    "enablePalette" : true
+  },
+  "skeletonTheme" : {
+    "name" : "cable-taperedline",
+    "palette" : [
+
+    ],
+    "topicStyleForMain" : {
+      "lineType" : 1,
+      "topicShape" : 0,
+      "lineWidth" : 3
+    },
+    "topicStyleForSubtopic" : {
+      "lineType" : 1,
+      "topicShape" : 1,
+      "lineWidth" : 3
+    },
+    "mapStyle" : {
+      "taperedLine" : true
+    },
+    "topicStyleForCentral" : {
+      "lineType" : 1,
+      "topicShape" : 0,
+      "lineWidth" : 3
+    },
+    "topicStyleForFloating" : {
+      "lineType" : 1,
+      "topicShape" : 0,
+      "lineWidth" : 3
+    },
+    "relationshipStyle" : {
+      "lineWidth" : 2
+    }
+  },
+  "id" : "70E2E214-86AD-4580-AF8A-E96A205AD96C-3591-0000149EB8BF8941",
+  "updateTime" : 1548167109.9411869,
+  "colorTheme" : {
+    "name" : "lighten",
+    "palette" : [
+      "{136, 180, 225, 1.00}",
+      "{28, 178, 170, 1.00}",
+      "{96, 122, 191, 1.00}",
+      "{97, 197, 211, 1.00}",
+      "{7, 143, 185, 1.00}",
+      "{56, 133, 211, 1.00}"
+    ],
+    "topicStyleForMain" : {
+      "lineType" : 2,
+      "lineWidth" : 5,
+      "fontStyle" : "normal",
+      "fontWeight" : "bold",
+      "topicMargin" : "{16, 6}",
+      "topicShape" : 1,
+      "fontColor" : "{255, 255, 255, 1.00}",
+      "lineColor" : "{136, 180, 225, 1.00}",
+      "fillColor" : "{30, 36, 57, 1.00}",
+      "fontName" : "Noteworthy-Bold",
+      "cornerRadius" : 8,
+      "fontFamily" : "Noteworthy"
+    },
+    "topicStyleForSubtopic" : {
+      "lineType" : 2,
+      "lineWidth" : 5,
+      "fontStyle" : "normal",
+      "fontWeight" : "bold",
+      "topicMargin" : "{6, 6}",
+      "topicShape" : 1,
+      "fontColor" : "{255, 255, 255, 1.00}",
+      "lineColor" : "{136, 180, 225, 1.00}",
+      "fillColor" : "{30, 36, 57, 1.00}",
+      "fontName" : "Noteworthy-Bold",
+      "cornerRadius" : 8,
+      "fontFamily" : "Noteworthy"
+    },
+    "mapStyle" : {
+      "fillColor" : "{30, 36, 57, 1.00}",
+      "lineType" : 0
+    },
+    "topicStyleForCentral" : {
+      "lineType" : 1,
+      "lineWidth" : 5,
+      "fontStyle" : "normal",
+      "fontWeight" : "bold",
+      "topicMargin" : "{28, 16}",
+      "topicShape" : 0,
+      "fontColor" : "{255, 255, 255, 1.00}",
+      "lineColor" : "{255, 255, 255, 1.00}",
+      "fillColor" : "{30, 36, 57, 1.00}",
+      "fontName" : "Noteworthy-Bold",
+      "cornerRadius" : 12,
+      "fontFamily" : "Noteworthy"
+    },
+    "topicStyleForFloating" : {
+      "lineType" : 2,
+      "lineWidth" : 5,
+      "fontStyle" : "normal",
+      "fontWeight" : "bold",
+      "topicMargin" : "{16, 6}",
+      "topicShape" : 1,
+      "fontColor" : "{255, 255, 255, 1.00}",
+      "lineColor" : "{136, 180, 225, 1.00}",
+      "fillColor" : "{30, 36, 57, 1.00}",
+      "fontName" : "Noteworthy-Bold",
+      "cornerRadius" : 8,
+      "fontFamily" : "Noteworthy"
+    },
+    "relationshipStyle" : {
+      "lineWidth" : 3,
+      "lineColor" : "{215, 126, 255, 1.00}"
+    }
+  },
+  "rootTopic" : {
+    "detach" : false,
+    "style" : {
+      "fontStyle" : "normal",
+      "fontName" : "Noteworthy",
+      "fontWeight" : "normal",
+      "fontFamily" : "Noteworthy",
+      "enablePalette" : true
+    },
+    "folded" : false,
+    "id" : "9D01FD20-0BF8-4DB2-BA57-E6A4D30A7BBD-3591-0000149EB8DC592F",
+    "checkList" : false,
+    "title" : "Dialoge\nSLE PdmH",
+    "position" : "{0, 0}",
+    "note" : {
+
+    },
+    "highlight" : false,
+    "subtopics" : [
+      {
+        "detach" : false,
+        "style" : {
+          "lineColor" : "{136, 180, 225, 1.00}",
+          "fontName" : "Noteworthy",
+          "fontStyle" : "normal",
+          "fontWeight" : "normal",
+          "fontFamily" : "Noteworthy",
+          "enablePalette" : true
+        },
+        "folded" : false,
+        "id" : "385DB31B-3B21-454E-98B3-82A57D83300A-3591-000014D4385D8EA5",
+        "checkList" : false,
+        "title" : "Dialog 2",
+        "position" : "{0, 0}",
+        "note" : {
+
+        },
+        "highlight" : false,
+        "subtopics" : [
+          {
+            "detach" : false,
+            "style" : {
+              "lineColor" : "{136, 180, 225, 1.00}",
+              "fontName" : "Noteworthy",
+              "fontStyle" : "normal",
+              "fontWeight" : "normal",
+              "fontFamily" : "Noteworthy",
+              "enablePalette" : true
+            },
+            "folded" : false,
+            "id" : "4A9029E9-085B-4848-A23E-BD884D147FD2-3591-000014D59CE02F21",
+            "checkList" : false,
+            "title" : "Grundaussage: Ich komme\nbei der Aufgabe 3 nicht weiter",
+            "position" : "{0, 0}",
+            "note" : {
+
+            },
+            "highlight" : false,
+            "subtopics" : [
+              {
+                "detach" : false,
+                "style" : {
+                  "lineColor" : "{136, 180, 225, 1.00}",
+                  "fontName" : "Noteworthy",
+                  "fontStyle" : "normal",
+                  "fontWeight" : "normal",
+                  "fontFamily" : "Noteworthy",
+                  "enablePalette" : true
+                },
+                "folded" : false,
+                "id" : "D0A5E015-8C7E-4103-8B4B-CA06B55FB04B-3591-000014E58C007C1E",
+                "checkList" : false,
+                "title" : "I: Hast Du schon einmal\nVerfahren X probiert?",
+                "position" : "{0, 0}",
+                "note" : {
+
+                },
+                "highlight" : false,
+                "subtopics" : [
+                  {
+                    "detach" : false,
+                    "style" : {
+                      "lineColor" : "{136, 180, 225, 1.00}",
+                      "fontName" : "Noteworthy",
+                      "fontStyle" : "normal",
+                      "fontWeight" : "normal",
+                      "fontFamily" : "Noteworthy",
+                      "enablePalette" : true
+                    },
+                    "folded" : false,
+                    "id" : "FE9FA23D-AB6F-4E71-8C06-469772973DC3-3591-000015377AFE4EC7",
+                    "checkList" : false,
+                    "title" : "Nicht gut. Verrät schon einen Teil\nder Lösung, obwohl unklar ist, welches\nkonkrete Problem Student*in hat.",
+                    "position" : "{0, 0}",
+                    "note" : {
+
+                    },
+                    "highlight" : false,
+                    "checkboxStatus" : 0
+                  }
+                ],
+                "checkboxStatus" : 0
+              },
+              {
+                "detach" : false,
+                "style" : {
+                  "lineColor" : "{136, 180, 225, 1.00}",
+                  "fontName" : "Noteworthy",
+                  "fontStyle" : "normal",
+                  "fontWeight" : "normal",
+                  "fontFamily" : "Noteworthy",
+                  "enablePalette" : true
+                },
+                "folded" : false,
+                "id" : "20625D6C-C199-4F53-A9BF-53F47CC530B8-3591-000014F2CD1D414C",
+                "checkList" : false,
+                "title" : "II: Die ist auch ziemlich\nschwierig, denk mal weiter nach",
+                "position" : "{0, 0}",
+                "note" : {
+
+                },
+                "highlight" : false,
+                "subtopics" : [
+                  {
+                    "detach" : false,
+                    "style" : {
+                      "lineColor" : "{136, 180, 225, 1.00}",
+                      "fontName" : "Noteworthy",
+                      "fontStyle" : "normal",
+                      "fontWeight" : "normal",
+                      "fontFamily" : "Noteworthy",
+                      "enablePalette" : true
+                    },
+                    "folded" : false,
+                    "id" : "92D51841-FBB6-4D59-B16B-C41588E437BF-3591-00001525F02B77A3",
+                    "checkList" : false,
+                    "title" : "Nicht gut. Gibt Feedback (“Stufe I”),\nobwohl Student*in mehr Hilfe erwartet\/benötigt",
+                    "position" : "{0, 0}",
+                    "note" : {
+
+                    },
+                    "highlight" : false,
+                    "checkboxStatus" : 0
+                  }
+                ],
+                "checkboxStatus" : 0
+              },
+              {
+                "detach" : false,
+                "style" : {
+                  "lineColor" : "{136, 180, 225, 1.00}",
+                  "fontName" : "Noteworthy",
+                  "fontStyle" : "normal",
+                  "fontWeight" : "normal",
+                  "fontFamily" : "Noteworthy",
+                  "enablePalette" : true
+                },
+                "folded" : false,
+                "id" : "41A9C83A-1C4A-4D4C-8C2F-BD0AE46C06EB-3591-000014F801CC3902",
+                "checkList" : false,
+                "title" : "III: Was hast Du denn schon versucht,\nund wo kommst Du konkret nicht weiter?",
+                "position" : "{0, 0}",
+                "note" : {
+
+                },
+                "highlight" : false,
+                "subtopics" : [
+                  {
+                    "detach" : false,
+                    "style" : {
+                      "lineColor" : "{136, 180, 225, 1.00}",
+                      "fontName" : "Noteworthy",
+                      "fontStyle" : "normal",
+                      "fontWeight" : "normal",
+                      "fontFamily" : "Noteworthy",
+                      "enablePalette" : true
+                    },
+                    "folded" : false,
+                    "id" : "E4076C79-CED5-43EA-AB27-1D7F1284EC32-3591-00001515E02D25F3",
+                    "checkList" : false,
+                    "title" : "Gute Antwort. Student*in lägt Fortschritt offen,\ndarauf passend kann auf das echte Problem \neingegangen werden.",
+                    "position" : "{0, 0}",
+                    "note" : {
+
+                    },
+                    "highlight" : false,
+                    "checkboxStatus" : 0
+                  }
+                ],
+                "checkboxStatus" : 0
+              },
+              {
+                "detach" : false,
+                "style" : {
+                  "lineColor" : "{136, 180, 225, 1.00}",
+                  "fontName" : "Noteworthy",
+                  "fontStyle" : "normal",
+                  "fontWeight" : "normal",
+                  "fontFamily" : "Noteworthy",
+                  "enablePalette" : true
+                },
+                "folded" : false,
+                "id" : "8967C856-2A36-47B7-A2F9-92381162371C-3591-000014FC2E677238",
+                "checkList" : false,
+                "title" : "IV: Der Trick ist hier, dass\n<<Lösungsidee>>",
+                "position" : "{0, 0}",
+                "note" : {
+
+                },
+                "highlight" : false,
+                "subtopics" : [
+                  {
+                    "detach" : false,
+                    "style" : {
+                      "lineColor" : "{136, 180, 225, 1.00}",
+                      "fontName" : "Noteworthy",
+                      "fontStyle" : "normal",
+                      "fontWeight" : "normal",
+                      "fontFamily" : "Noteworthy",
+                      "enablePalette" : true
+                    },
+                    "folded" : false,
+                    "id" : "37EF0651-1C4E-4B48-AF41-C10181A87F24-3591-00001502727E139F",
+                    "checkList" : false,
+                    "title" : "Geht zu weit, verrät Teile der Lösung,\nobwohl unklar ist, ob der Student das will",
+                    "position" : "{0, 0}",
+                    "note" : {
+
+                    },
+                    "highlight" : false,
+                    "checkboxStatus" : 0
+                  }
+                ],
+                "checkboxStatus" : 0
+              }
+            ],
+            "checkboxStatus" : 0
+          }
+        ],
+        "checkboxStatus" : 0
+      },
+      {
+        "detach" : false,
+        "style" : {
+          "lineColor" : "{28, 178, 170, 1.00}",
+          "fontName" : "Noteworthy",
+          "fontStyle" : "normal",
+          "fontWeight" : "normal",
+          "fontFamily" : "Noteworthy",
+          "enablePalette" : true
+        },
+        "folded" : false,
+        "id" : "26E48DA6-8262-4C49-861D-39D5BC6311C6-3591-00001529945D1056",
+        "checkList" : false,
+        "title" : "Dialog 1",
+        "position" : "{0, 0}",
+        "note" : {
+
+        },
+        "highlight" : false,
+        "subtopics" : [
+          {
+            "detach" : false,
+            "style" : {
+              "lineColor" : "{28, 178, 170, 1.00}",
+              "fontName" : "Noteworthy",
+              "fontStyle" : "normal",
+              "fontWeight" : "normal",
+              "fontFamily" : "Noteworthy",
+              "enablePalette" : true
+            },
+            "folded" : false,
+            "id" : "393961DC-4B3E-4C67-8CD5-2CC5FAABE77F-3591-0000152E313247AB",
+            "checkList" : false,
+            "title" : "Grundaussage: Ich verstehe die\nAufgabenstellung von Aufgabe 5 nicht",
+            "position" : "{0, 0}",
+            "note" : {
+
+            },
+            "highlight" : false,
+            "subtopics" : [
+              {
+                "detach" : false,
+                "style" : {
+                  "lineColor" : "{28, 178, 170, 1.00}",
+                  "fontName" : "Noteworthy",
+                  "fontStyle" : "normal",
+                  "fontWeight" : "normal",
+                  "fontFamily" : "Noteworthy",
+                  "enablePalette" : true
+                },
+                "folded" : false,
+                "id" : "BF3DED77-C313-46E4-871E-AD5AC1DAB699-3591-0000154DC55138CA",
+                "checkList" : false,
+                "title" : "I: Du musst hier <…> machen",
+                "position" : "{0, 0}",
+                "note" : {
+
+                },
+                "highlight" : false,
+                "subtopics" : [
+                  {
+                    "detach" : false,
+                    "style" : {
+                      "lineColor" : "{28, 178, 170, 1.00}",
+                      "fontName" : "Noteworthy",
+                      "fontStyle" : "normal",
+                      "fontWeight" : "normal",
+                      "fontFamily" : "Noteworthy",
+                      "enablePalette" : true
+                    },
+                    "folded" : false,
+                    "id" : "9465B6FB-571F-43C0-9665-690128E1D175-3591-0000155170ADC432",
+                    "checkList" : false,
+                    "title" : "Nicht gut. Erst einmal klären, welche\nProbleme konkret vorliegen (Beispiel:\neine Definition oder der Umfang der\nAufgabe sind unklar: “Angeben, ob die\nBehauptung stimmt, oder sie beweisen?”)",
+                    "position" : "{0, 0}",
+                    "note" : {
+
+                    },
+                    "highlight" : false,
+                    "checkboxStatus" : 0
+                  }
+                ],
+                "checkboxStatus" : 0
+              },
+              {
+                "detach" : false,
+                "style" : {
+                  "lineColor" : "{28, 178, 170, 1.00}",
+                  "fontName" : "Noteworthy",
+                  "fontStyle" : "normal",
+                  "fontWeight" : "normal",
+                  "fontFamily" : "Noteworthy",
+                  "enablePalette" : true
+                },
+                "folded" : false,
+                "id" : "53E5C391-F1C8-47C6-B04E-0F234717BD33-3591-000015854712AFD5",
+                "checkList" : false,
+                "title" : "II: Lies Dir noch einmal die\nDefinition aus den Unterlagen durch",
+                "position" : "{0, 0}",
+                "note" : {
+
+                },
+                "highlight" : false,
+                "subtopics" : [
+                  {
+                    "detach" : false,
+                    "style" : {
+                      "lineColor" : "{28, 178, 170, 1.00}",
+                      "fontName" : "Noteworthy",
+                      "fontStyle" : "normal",
+                      "fontWeight" : "normal",
+                      "fontFamily" : "Noteworthy",
+                      "enablePalette" : true
+                    },
+                    "folded" : false,
+                    "id" : "F6DE2DF4-1BD0-47E9-9D43-BD2D0F713CC3-3591-0000158ACD545A1F",
+                    "checkList" : false,
+                    "title" : "Nicht gut, bevormundet Studierende (“kennt\nsich nicht hinreichend aus, nicht vorbereitet”),\ninteressiert sich aber gleichzeitig anscheinend\nnicht für das konkrete Problem.",
+                    "position" : "{0, 0}",
+                    "note" : {
+
+                    },
+                    "highlight" : false,
+                    "checkboxStatus" : 0
+                  }
+                ],
+                "checkboxStatus" : 0
+              },
+              {
+                "detach" : false,
+                "style" : {
+                  "lineColor" : "{28, 178, 170, 1.00}",
+                  "fontName" : "Noteworthy",
+                  "fontStyle" : "normal",
+                  "fontWeight" : "normal",
+                  "fontFamily" : "Noteworthy",
+                  "enablePalette" : true
+                },
+                "folded" : false,
+                "id" : "031E8E7A-C27F-4D97-9E53-F49CB1A78BB1-3591-00001593C08C6C5D",
+                "checkList" : false,
+                "title" : "III: Denke nochmals ein paar Minuten darüber\nnach und berücksichtige dabei <Inhalt aus\nUnterlagen>. Wenn Du damit nicht weiterkommst,\nmelde Dich bitte nochmal.",
+                "position" : "{0, 0}",
+                "note" : {
+
+                },
+                "highlight" : false,
+                "subtopics" : [
+                  {
+                    "detach" : false,
+                    "style" : {
+                      "lineColor" : "{28, 178, 170, 1.00}",
+                      "fontName" : "Noteworthy",
+                      "fontStyle" : "normal",
+                      "fontWeight" : "normal",
+                      "fontFamily" : "Noteworthy",
+                      "enablePalette" : true
+                    },
+                    "folded" : false,
+                    "id" : "3FA3C21E-6516-4B7B-AFF2-0B6BEBFF5C56-3591-0000159D64A7A8F0",
+                    "checkList" : false,
+                    "title" : "Besser aber nicht unbedingt optimal.\nRegt zur eigenen Bearbeitung an und\ngibt einen kleinen Hinweis, lässt Tür\nfür mehr Hilfe auf Anforderung auf.",
+                    "position" : "{0, 0}",
+                    "note" : {
+
+                    },
+                    "highlight" : false,
+                    "checkboxStatus" : 0
+                  }
+                ],
+                "checkboxStatus" : 0
+              },
+              {
+                "detach" : false,
+                "style" : {
+                  "lineColor" : "{28, 178, 170, 1.00}",
+                  "fontName" : "Noteworthy",
+                  "fontStyle" : "normal",
+                  "fontWeight" : "normal",
+                  "fontFamily" : "Noteworthy",
+                  "enablePalette" : true
+                },
+                "folded" : false,
+                "id" : "1CBE5743-7299-4464-A748-48F5453B7AAA-3591-000015A6C0746544",
+                "checkList" : false,
+                "title" : "IV: Die Aufgabe ist auch ziemlich schwer zu verstehen. Eigentlich musst Du nur <X> machen.",
+                "position" : "{0, 0}",
+                "note" : {
+
+                },
+                "highlight" : false,
+                "subtopics" : [
+                  {
+                    "detach" : false,
+                    "style" : {
+                      "lineColor" : "{28, 178, 170, 1.00}",
+                      "fontName" : "Noteworthy",
+                      "fontStyle" : "normal",
+                      "fontWeight" : "normal",
+                      "fontFamily" : "Noteworthy",
+                      "enablePalette" : true
+                    },
+                    "folded" : false,
+                    "id" : "457B86FB-32E4-466F-AA79-851D1F2CA3DF-3591-000015B01F4340EE",
+                    "checkList" : false,
+                    "title" : "Nicht gut. Kritik an den Aufgabenerstellern\n(oft die Vorgesetzten) gegenüber Student*innen vermeiden! Außerdem wenig motivierend, und unklar, ob “Klausuraufgaben verständlicher werden”.",
+                    "position" : "{0, 0}",
+                    "note" : {
+
+                    },
+                    "highlight" : false,
+                    "checkboxStatus" : 0
+                  }
+                ],
+                "checkboxStatus" : 0
+              }
+            ],
+            "checkboxStatus" : 0
+          }
+        ],
+        "checkboxStatus" : 0
+      },
+      {
+        "detach" : false,
+        "style" : {
+          "lineColor" : "{97, 197, 211, 1.00}",
+          "fontName" : "Noteworthy",
+          "fontStyle" : "normal",
+          "fontWeight" : "normal",
+          "fontFamily" : "Noteworthy",
+          "enablePalette" : true
+        },
+        "folded" : false,
+        "id" : "31A30C8C-230D-4B48-9EB3-9639AAC404C7-3591-000015E80694BE58",
+        "checkList" : false,
+        "title" : "Dialog 3",
+        "position" : "{0, 0}",
+        "note" : {
+
+        },
+        "highlight" : false,
+        "subtopics" : [
+          {
+            "detach" : false,
+            "style" : {
+              "lineColor" : "{97, 197, 211, 1.00}",
+              "fontName" : "Noteworthy",
+              "fontStyle" : "normal",
+              "fontWeight" : "normal",
+              "fontFamily" : "Noteworthy",
+              "enablePalette" : true
+            },
+            "folded" : false,
+            "id" : "11BF2DA1-E905-4378-A24E-120C8FF87A92-3591-000015EBBFC71975",
+            "checkList" : false,
+            "title" : "Grundaussage: Ich habe Aufgabe 6 vollständig\nbearbeitet, aber ich finde trotz Suchen meinen Fehler nicht\n[mit Marker mit Infos zum konkreten Fehler, wenn man es sich ansieht] - z.B. Gleichungssystem mit +\/.1 durch Quadrieren",
+            "position" : "{0, 0}",
+            "note" : {
+
+            },
+            "highlight" : false,
+            "subtopics" : [
+              {
+                "detach" : false,
+                "style" : {
+                  "lineColor" : "{97, 197, 211, 1.00}",
+                  "fontName" : "Noteworthy",
+                  "fontStyle" : "normal",
+                  "fontWeight" : "normal",
+                  "fontFamily" : "Noteworthy",
+                  "enablePalette" : true
+                },
+                "folded" : false,
+                "id" : "87A00BEA-4329-49C8-B92C-BB0F6B395313-3591-000015F553AF479F",
+                "checkList" : false,
+                "title" : "I: Rechne es nochmal genau durch,\nvielleicht findest Du dann den Fehler. \nSonst melde Dich noch einmal…",
+                "position" : "{0, 0}",
+                "note" : {
+
+                },
+                "highlight" : false,
+                "subtopics" : [
+                  {
+                    "detach" : false,
+                    "style" : {
+                      "lineColor" : "{97, 197, 211, 1.00}",
+                      "fontName" : "Noteworthy",
+                      "fontStyle" : "normal",
+                      "fontWeight" : "normal",
+                      "fontFamily" : "Noteworthy",
+                      "enablePalette" : true
+                    },
+                    "folded" : false,
+                    "id" : "921ECF5C-2A9E-4D72-9FD0-7DFF94365071-3591-000015F94BCAA989",
+                    "checkList" : false,
+                    "title" : "Aus Sicht der Selbstständigkeit denkbar, aber wernig hilfreich. Student*in hat schon deutlich gemacht, dass nach Fehler gesuch wurde, dieser aber nicht zu finden ist.",
+                    "position" : "{0, 0}",
+                    "note" : {
+
+                    },
+                    "highlight" : false,
+                    "checkboxStatus" : 0
+                  }
+                ],
+                "checkboxStatus" : 0
+              },
+              {
+                "detach" : false,
+                "style" : {
+                  "lineColor" : "{97, 197, 211, 1.00}",
+                  "fontName" : "Noteworthy",
+                  "fontStyle" : "normal",
+                  "fontWeight" : "normal",
+                  "fontFamily" : "Noteworthy",
+                  "enablePalette" : true
+                },
+                "folded" : false,
+                "id" : "906593B5-D1F7-42F7-A094-BB8E6B76ADF0-3591-00001608EE5CBB2A",
+                "checkList" : false,
+                "title" : "II: Erkläre mir mal, wie Du prinzipiell vorgegangen bist, vielleicht finden wir dann einen Denkfehler.",
+                "position" : "{0, 0}",
+                "note" : {
+
+                },
+                "highlight" : false,
+                "subtopics" : [
+                  {
+                    "detach" : false,
+                    "style" : {
+                      "lineColor" : "{97, 197, 211, 1.00}",
+                      "fontName" : "Noteworthy",
+                      "fontStyle" : "normal",
+                      "fontWeight" : "normal",
+                      "fontFamily" : "Noteworthy",
+                      "enablePalette" : true
+                    },
+                    "folded" : false,
+                    "id" : "CF17F4AE-A46E-45A4-A219-EFB5BD960058-3591-0000160F5A075F28",
+                    "checkList" : false,
+                    "title" : "Macht nur Sinn, wenn es sich wirklich um einen (mehr oder weniger “offenkundigen”) Denk- oder Rechenfehler handelt. Bei tieferliegenden Fehlern (“Verfahren hier nicht anwendbar” etc.) nicht hilfreich.",
+                    "position" : "{0, 0}",
+                    "note" : {
+
+                    },
+                    "highlight" : false,
+                    "checkboxStatus" : 0
+                  }
+                ],
+                "checkboxStatus" : 0
+              },
+              {
+                "detach" : false,
+                "style" : {
+                  "lineColor" : "{97, 197, 211, 1.00}",
+                  "fontName" : "Noteworthy",
+                  "fontStyle" : "normal",
+                  "fontWeight" : "normal",
+                  "fontFamily" : "Noteworthy",
+                  "enablePalette" : true
+                },
+                "folded" : false,
+                "id" : "6957804C-37EC-4C22-93A0-129CCFC03FC3-3591-00001618F51454B0",
+                "checkList" : false,
+                "title" : "III: Ich kann verstehen, dass Du den Fehler nicht finden kannst. Überlege mal, was an dieser Stelle die Quadrierung bewirkt.",
+                "position" : "{0, 0}",
+                "note" : {
+
+                },
+                "highlight" : false,
+                "subtopics" : [
+                  {
+                    "detach" : false,
+                    "style" : {
+                      "lineColor" : "{97, 197, 211, 1.00}",
+                      "fontName" : "Noteworthy",
+                      "fontStyle" : "normal",
+                      "fontWeight" : "normal",
+                      "fontFamily" : "Noteworthy",
+                      "enablePalette" : true
+                    },
+                    "folded" : false,
+                    "id" : "8CA9A98F-1F3C-4BE3-892D-B589CC1729AD-3591-0000162D9B4DF792",
+                    "checkList" : false,
+                    "title" : "Schon recht konkrete “Hilfe zur Selbsthilfe”, kreist den Ort des Fehlers stark ein, “verrüt” aber nicht komplett den Auslöser bzw. Hintergrund.",
+                    "position" : "{0, 0}",
+                    "note" : {
+
+                    },
+                    "highlight" : false,
+                    "checkboxStatus" : 0
+                  }
+                ],
+                "checkboxStatus" : 0
+              },
+              {
+                "detach" : false,
+                "style" : {
+                  "lineColor" : "{97, 197, 211, 1.00}",
+                  "fontName" : "Noteworthy",
+                  "fontStyle" : "normal",
+                  "fontWeight" : "normal",
+                  "fontFamily" : "Noteworthy",
+                  "enablePalette" : true
+                },
+                "folded" : false,
+                "id" : "224F7C92-2BFE-427F-B512-71475B99271C-3591-00001696CBBD7C88",
+                "checkList" : false,
+                "title" : "IV: Das Finden von Fehlern ist eine zentrale Fähigkeit in diesem Fach, ich kann Dir da leider nicht weietrhelfen.",
+                "position" : "{0, 0}",
+                "note" : {
+
+                },
+                "highlight" : false,
+                "subtopics" : [
+                  {
+                    "detach" : false,
+                    "style" : {
+                      "lineColor" : "{97, 197, 211, 1.00}",
+                      "fontName" : "Noteworthy",
+                      "fontStyle" : "normal",
+                      "fontWeight" : "normal",
+                      "fontFamily" : "Noteworthy",
+                      "enablePalette" : true
+                    },
+                    "folded" : false,
+                    "id" : "04BE5E93-DFDE-4761-BA2E-F8A5CAF2D700-3591-000016A149C18B01",
+                    "checkList" : false,
+                    "title" : "Aus Student*innensicht im schlimmsten Fall “Arbeitsverweigerung”, nicht als hilfreich angesehen. Hilfestellungen zum konkreten Vorgehen o. Ä. wären besser!",
+                    "position" : "{0, 0}",
+                    "note" : {
+
+                    },
+                    "highlight" : false,
+                    "checkboxStatus" : 0
+                  }
+                ],
+                "checkboxStatus" : 0
+              }
+            ],
+            "checkboxStatus" : 0
+          }
+        ],
+        "checkboxStatus" : 0
+      },
+      {
+        "detach" : false,
+        "style" : {
+          "lineColor" : "{7, 143, 185, 1.00}",
+          "fontName" : "Noteworthy",
+          "fontStyle" : "normal",
+          "fontWeight" : "normal",
+          "fontFamily" : "Noteworthy",
+          "enablePalette" : true
+        },
+        "folded" : false,
+        "id" : "C8E9621B-F722-4407-B526-A83F33D0F823-3591-000016C407B85D09",
+        "checkList" : false,
+        "title" : "Dialog 4",
+        "position" : "{0, 0}",
+        "note" : {
+
+        },
+        "highlight" : false,
+        "subtopics" : [
+          {
+            "detach" : false,
+            "style" : {
+              "lineColor" : "{7, 143, 185, 1.00}",
+              "fontName" : "Noteworthy",
+              "fontStyle" : "normal",
+              "fontWeight" : "normal",
+              "fontFamily" : "Noteworthy",
+              "enablePalette" : true
+            },
+            "folded" : false,
+            "id" : "7678516B-ADAE-4C3D-9979-D1A2A36DB7FC-3591-000016C54B7ECDE2",
+            "checkList" : false,
+            "title" : "Gibst Du mir bitte mal Feedback dazu, ob meine Grundidee bei Aufgabe 2 so sinnvoll ist? ",
+            "position" : "{0, 0}",
+            "note" : {
+
+            },
+            "highlight" : false,
+            "subtopics" : [
+              {
+                "detach" : false,
+                "style" : {
+                  "lineColor" : "{7, 143, 185, 1.00}",
+                  "fontName" : "Noteworthy",
+                  "fontStyle" : "normal",
+                  "fontWeight" : "normal",
+                  "fontFamily" : "Noteworthy",
+                  "enablePalette" : true
+                },
+                "folded" : false,
+                "id" : "E9AC7EC8-0866-4EC7-9253-2B717C23F223-3591-000016CB710BDFFC",
+                "checkList" : false,
+                "title" : "I: Das sieht gut aus, mach so weiter!",
+                "position" : "{0, 0}",
+                "note" : {
+
+                },
+                "highlight" : false,
+                "subtopics" : [
+                  {
+                    "detach" : false,
+                    "style" : {
+                      "lineColor" : "{7, 143, 185, 1.00}",
+                      "fontName" : "Noteworthy",
+                      "fontStyle" : "normal",
+                      "fontWeight" : "normal",
+                      "fontFamily" : "Noteworthy",
+                      "enablePalette" : true
+                    },
+                    "folded" : false,
+                    "id" : "EFC8A5AA-DE37-492B-AE12-C244E40692B9-3591-000016E31E9B6717",
+                    "checkList" : false,
+                    "title" : "Hilfreiches Feedback, entspricht genau Wunsch von Student*in und motiviert zum Weitermachen",
+                    "position" : "{0, 0}",
+                    "note" : {
+
+                    },
+                    "highlight" : false,
+                    "checkboxStatus" : 0
+                  }
+                ],
+                "checkboxStatus" : 0
+              },
+              {
+                "detach" : false,
+                "style" : {
+                  "lineColor" : "{7, 143, 185, 1.00}",
+                  "fontName" : "Noteworthy",
+                  "fontStyle" : "normal",
+                  "fontWeight" : "normal",
+                  "fontFamily" : "Noteworthy",
+                  "enablePalette" : true
+                },
+                "folded" : false,
+                "id" : "3AE8EA59-5508-4CD7-876C-A267F23B19B7-3591-000016E8A6572943",
+                "checkList" : false,
+                "title" : "II: Dazu darf ich leider nichts sagen. Mach erst weiter und schau, ob Du das Ziel erreichen wirst.",
+                "position" : "{0, 0}",
+                "note" : {
+
+                },
+                "highlight" : false,
+                "subtopics" : [
+                  {
+                    "detach" : false,
+                    "style" : {
+                      "lineColor" : "{7, 143, 185, 1.00}",
+                      "fontName" : "Noteworthy",
+                      "fontStyle" : "normal",
+                      "fontWeight" : "normal",
+                      "fontFamily" : "Noteworthy",
+                      "enablePalette" : true
+                    },
+                    "folded" : false,
+                    "id" : "3116E2B8-97E3-49C2-A90F-9040F71E2181-3591-000016F155D6A2A6",
+                    "checkList" : false,
+                    "title" : "Nicht hilfreich, vor allem, wenn es sich - tatsächlich oder aus Wahrnehmung der Student*innen - um einen “Irrweg” handelt (falsch, unnötig umständlich, …)",
+                    "position" : "{0, 0}",
+                    "note" : {
+
+                    },
+                    "highlight" : false,
+                    "checkboxStatus" : 0
+                  }
+                ],
+                "checkboxStatus" : 0
+              },
+              {
+                "detach" : false,
+                "style" : {
+                  "lineColor" : "{7, 143, 185, 1.00}",
+                  "fontName" : "Noteworthy",
+                  "fontStyle" : "normal",
+                  "fontWeight" : "normal",
+                  "fontFamily" : "Noteworthy",
+                  "enablePalette" : true
+                },
+                "folded" : false,
+                "id" : "84930228-5D63-4D8D-8DCE-59B715C5517F-3591-000016FA1E1F9788",
+                "checkList" : false,
+                "title" : "III: Das sieht sehr gut aus. Was wäre der nächste Schritt?",
+                "position" : "{0, 0}",
+                "note" : {
+
+                },
+                "highlight" : false,
+                "subtopics" : [
+                  {
+                    "detach" : false,
+                    "style" : {
+                      "lineColor" : "{7, 143, 185, 1.00}",
+                      "fontName" : "Noteworthy",
+                      "fontStyle" : "normal",
+                      "fontWeight" : "normal",
+                      "fontFamily" : "Noteworthy",
+                      "enablePalette" : true
+                    },
+                    "folded" : false,
+                    "id" : "3A6D977E-C18B-4BDF-BE03-C482D0A1FA5A-3591-000016FFD6F8CC40",
+                    "checkList" : false,
+                    "title" : "Hilfreich, könnte aber Informationen an Kommiliton*innen geben. Erwartet zudem fast umgehende Antwort zum nächsten Schritt, die Student*in eventuell nicht geben kann.",
+                    "position" : "{0, 0}",
+                    "note" : {
+
+                    },
+                    "highlight" : false,
+                    "checkboxStatus" : 0
+                  }
+                ],
+                "checkboxStatus" : 0
+              },
+              {
+                "detach" : false,
+                "style" : {
+                  "lineColor" : "{7, 143, 185, 1.00}",
+                  "fontName" : "Noteworthy",
+                  "fontStyle" : "normal",
+                  "fontWeight" : "normal",
+                  "fontFamily" : "Noteworthy",
+                  "enablePalette" : true
+                },
+                "folded" : false,
+                "id" : "6B1C4640-D553-4DC9-AC4D-7908E5587939-3591-0000170B283C0601",
+                "checkList" : false,
+                "title" : "IV: Sehr gut, und als nächstes müsstest Du nun <konkreter Hinweis> machen.",
+                "position" : "{0, 0}",
+                "note" : {
+
+                },
+                "highlight" : false,
+                "subtopics" : [
+                  {
+                    "detach" : false,
+                    "style" : {
+                      "lineColor" : "{7, 143, 185, 1.00}",
+                      "fontName" : "Noteworthy",
+                      "fontStyle" : "normal",
+                      "fontWeight" : "normal",
+                      "fontFamily" : "Noteworthy",
+                      "enablePalette" : true
+                    },
+                    "folded" : false,
+                    "id" : "4F2F1A41-257D-42E0-8B8E-5EB67F94E831-3591-0000170FBC4BED74",
+                    "checkList" : false,
+                    "title" : "Nicht gut. Adressiert zwar die eigentlich Frage, nimmt aber gleichzeitig Antworten vorweg, über die Student*in vielleicht noch gar nicht nachgedacht hatte.",
+                    "position" : "{0, 0}",
+                    "note" : {
+
+                    },
+                    "highlight" : false,
+                    "checkboxStatus" : 0
+                  }
+                ],
+                "checkboxStatus" : 0
+              }
+            ],
+            "checkboxStatus" : 0
+          }
+        ],
+        "checkboxStatus" : 0
+      },
+      {
+        "detach" : false,
+        "style" : {
+          "lineColor" : "{96, 122, 191, 1.00}",
+          "fontName" : "Noteworthy",
+          "fontStyle" : "normal",
+          "fontWeight" : "normal",
+          "fontFamily" : "Noteworthy",
+          "enablePalette" : true
+        },
+        "folded" : false,
+        "id" : "C9BA350E-5381-4B94-AAC8-DAABC938C62C-3591-000015D027695719",
+        "checkList" : false,
+        "title" : "TODO",
+        "position" : "{0, 0}",
+        "note" : {
+
+        },
+        "highlight" : false,
+        "subtopics" : [
+          {
+            "detach" : false,
+            "style" : {
+              "lineColor" : "{96, 122, 191, 1.00}",
+              "fontName" : "Noteworthy",
+              "fontStyle" : "normal",
+              "fontWeight" : "normal",
+              "fontFamily" : "Noteworthy",
+              "enablePalette" : true
+            },
+            "folded" : false,
+            "id" : "29E2F3FF-DE63-4D16-8CBC-2B8B56306A43-3591-000015D1E3D553C5",
+            "checkList" : false,
+            "title" : "Abbilden\/Check Feedback auf “Stufen”",
+            "position" : "{0, 0}",
+            "note" : {
+
+            },
+            "highlight" : false,
+            "checkboxStatus" : 0
+          },
+          {
+            "detach" : false,
+            "style" : {
+              "lineColor" : "{96, 122, 191, 1.00}",
+              "fontName" : "Noteworthy",
+              "fontStyle" : "normal",
+              "fontWeight" : "normal",
+              "fontFamily" : "Noteworthy",
+              "enablePalette" : true
+            },
+            "folded" : false,
+            "id" : "205C2E8B-330C-4C76-A77B-9B8075EFA692-3591-000015E1E271240B",
+            "checkList" : false,
+            "title" : "Feedback passend zu “Stufen“ wählen - sinnvoll?",
+            "position" : "{0, 0}",
+            "note" : {
+
+            },
+            "highlight" : false,
+            "checkboxStatus" : 0
+          },
+          {
+            "detach" : false,
+            "style" : {
+              "lineColor" : "{96, 122, 191, 1.00}",
+              "fontName" : "Noteworthy",
+              "fontStyle" : "normal",
+              "fontWeight" : "normal",
+              "fontFamily" : "Noteworthy",
+              "enablePalette" : true
+            },
+            "folded" : false,
+            "id" : "DBA09E2B-FC29-4A55-890D-BB450B01909E-3591-000015E4EA40126E",
+            "checkList" : false,
+            "title" : "Bei Feedback zu Antwortwahl auch Stufe angeben…?",
+            "position" : "{0, 0}",
+            "note" : {
+
+            },
+            "highlight" : false,
+            "checkboxStatus" : 0
+          }
+        ],
+        "checkboxStatus" : 0
+      }
+    ],
+    "checkboxStatus" : 0
+  },
+  "createTime" : 1548167109.9411869,
+  "mapName" : ""
+}
