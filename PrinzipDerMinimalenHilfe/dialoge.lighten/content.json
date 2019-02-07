@@ -216,6 +216,27 @@
                     },
                     "highlight" : false,
                     "checkboxStatus" : 0
+                  },
+                  {
+                    "detach" : false,
+                    "style" : {
+                      "lineColor" : "{136, 180, 225, 1.00}",
+                      "fontName" : "Noteworthy",
+                      "fontStyle" : "normal",
+                      "fontWeight" : "normal",
+                      "fontFamily" : "Noteworthy",
+                      "enablePalette" : true
+                    },
+                    "folded" : false,
+                    "id" : "66835F3B-F95E-48DA-BF2A-F9D6A99A0352-2510-000007BB4F16631E",
+                    "checkList" : false,
+                    "title" : "Einstufung: Stufe 4",
+                    "position" : "{0, 0}",
+                    "note" : {
+
+                    },
+                    "highlight" : false,
+                    "checkboxStatus" : 0
                   }
                 ],
                 "checkboxStatus" : 0
@@ -254,6 +275,27 @@
                     "id" : "92D51841-FBB6-4D59-B16B-C41588E437BF-3591-00001525F02B77A3",
                     "checkList" : false,
                     "title" : "Nicht gut. Gibt Feedback (“Stufe I”),\nobwohl Student*in mehr Hilfe erwartet\/benötigt",
+                    "position" : "{0, 0}",
+                    "note" : {
+
+                    },
+                    "highlight" : false,
+                    "checkboxStatus" : 0
+                  },
+                  {
+                    "detach" : false,
+                    "style" : {
+                      "lineColor" : "{136, 180, 225, 1.00}",
+                      "fontName" : "Noteworthy",
+                      "fontStyle" : "normal",
+                      "fontWeight" : "normal",
+                      "fontFamily" : "Noteworthy",
+                      "enablePalette" : true
+                    },
+                    "folded" : false,
+                    "id" : "81668B1C-A21F-44F9-A234-4AB993D3C5C6-2510-000007BDD80D1DE3",
+                    "checkList" : false,
+                    "title" : "Einstufung: Stufe 1",
                     "position" : "{0, 0}",
                     "note" : {
 
@@ -304,6 +346,27 @@
                     },
                     "highlight" : false,
                     "checkboxStatus" : 0
+                  },
+                  {
+                    "detach" : false,
+                    "style" : {
+                      "lineColor" : "{136, 180, 225, 1.00}",
+                      "fontName" : "Noteworthy",
+                      "fontStyle" : "normal",
+                      "fontWeight" : "normal",
+                      "fontFamily" : "Noteworthy",
+                      "enablePalette" : true
+                    },
+                    "folded" : false,
+                    "id" : "6FF2EE0F-C1B7-4728-B822-64A7A4906563-2510-000007BF283DFE61",
+                    "checkList" : false,
+                    "title" : "Einstufung: Stufe 2-3",
+                    "position" : "{0, 0}",
+                    "note" : {
+
+                    },
+                    "highlight" : false,
+                    "checkboxStatus" : 0
                   }
                 ],
                 "checkboxStatus" : 0
@@ -342,6 +405,27 @@
                     "id" : "37EF0651-1C4E-4B48-AF41-C10181A87F24-3591-00001502727E139F",
                     "checkList" : false,
                     "title" : "Geht zu weit, verrät Teile der Lösung,\nobwohl unklar ist, ob der Student das will",
+                    "position" : "{0, 0}",
+                    "note" : {
+
+                    },
+                    "highlight" : false,
+                    "checkboxStatus" : 0
+                  },
+                  {
+                    "detach" : false,
+                    "style" : {
+                      "lineColor" : "{136, 180, 225, 1.00}",
+                      "fontName" : "Noteworthy",
+                      "fontStyle" : "normal",
+                      "fontWeight" : "normal",
+                      "fontFamily" : "Noteworthy",
+                      "enablePalette" : true
+                    },
+                    "folded" : false,
+                    "id" : "B2722298-4DCA-448D-AC9D-9B8943E5C806-2510-000007C0E14F8912",
+                    "checkList" : false,
+                    "title" : "Einstufung: Stufe 4-5",
                     "position" : "{0, 0}",
                     "note" : {
 
@@ -438,6 +522,27 @@
                     },
                     "highlight" : false,
                     "checkboxStatus" : 0
+                  },
+                  {
+                    "detach" : false,
+                    "style" : {
+                      "lineColor" : "{28, 178, 170, 1.00}",
+                      "fontName" : "Noteworthy",
+                      "fontStyle" : "normal",
+                      "fontWeight" : "normal",
+                      "fontFamily" : "Noteworthy",
+                      "enablePalette" : true
+                    },
+                    "folded" : false,
+                    "id" : "320DEC93-62DC-47B9-9EB5-33D3C729D178-2510-000007A739DD5D17",
+                    "checkList" : false,
+                    "title" : "Einstufung: Stufe 5",
+                    "position" : "{0, 0}",
+                    "note" : {
+
+                    },
+                    "highlight" : false,
+                    "checkboxStatus" : 0
                   }
                 ],
                 "checkboxStatus" : 0
@@ -476,6 +581,27 @@
                     "id" : "F6DE2DF4-1BD0-47E9-9D43-BD2D0F713CC3-3591-0000158ACD545A1F",
                     "checkList" : false,
                     "title" : "Nicht gut, bevormundet Studierende (“kennt\nsich nicht hinreichend aus, nicht vorbereitet”),\ninteressiert sich aber gleichzeitig anscheinend\nnicht für das konkrete Problem.",
+                    "position" : "{0, 0}",
+                    "note" : {
+
+                    },
+                    "highlight" : false,
+                    "checkboxStatus" : 0
+                  },
+                  {
+                    "detach" : false,
+                    "style" : {
+                      "lineColor" : "{28, 178, 170, 1.00}",
+                      "fontName" : "Noteworthy",
+                      "fontStyle" : "normal",
+                      "fontWeight" : "normal",
+                      "fontFamily" : "Noteworthy",
+                      "enablePalette" : true
+                    },
+                    "folded" : false,
+                    "id" : "8BBE1E62-1A77-4E55-A57E-50195F2E11B8-2510-000007A97F91030A",
+                    "checkList" : false,
+                    "title" : "Einstufung: Stufe 2-4 je nach Formulierung\/Kontext",
                     "position" : "{0, 0}",
                     "note" : {
 
@@ -526,6 +652,27 @@
                     },
                     "highlight" : false,
                     "checkboxStatus" : 0
+                  },
+                  {
+                    "detach" : false,
+                    "style" : {
+                      "lineColor" : "{28, 178, 170, 1.00}",
+                      "fontName" : "Noteworthy",
+                      "fontStyle" : "normal",
+                      "fontWeight" : "normal",
+                      "fontFamily" : "Noteworthy",
+                      "enablePalette" : true
+                    },
+                    "folded" : false,
+                    "id" : "9FD0A608-55A5-4A39-96CE-7C92500DEA8F-2510-000007B2E4BD5A41",
+                    "checkList" : false,
+                    "title" : "Einstufung: Stufe 2-3",
+                    "position" : "{0, 0}",
+                    "note" : {
+
+                    },
+                    "highlight" : false,
+                    "checkboxStatus" : 0
                   }
                 ],
                 "checkboxStatus" : 0
@@ -564,6 +711,27 @@
                     "id" : "457B86FB-32E4-466F-AA79-851D1F2CA3DF-3591-000015B01F4340EE",
                     "checkList" : false,
                     "title" : "Nicht gut. Kritik an den Aufgabenerstellern\n(oft die Vorgesetzten) gegenüber Student*innen vermeiden! Außerdem wenig motivierend, und unklar, ob “Klausuraufgaben verständlicher werden”.",
+                    "position" : "{0, 0}",
+                    "note" : {
+
+                    },
+                    "highlight" : false,
+                    "checkboxStatus" : 0
+                  },
+                  {
+                    "detach" : false,
+                    "style" : {
+                      "lineColor" : "{28, 178, 170, 1.00}",
+                      "fontName" : "Noteworthy",
+                      "fontStyle" : "normal",
+                      "fontWeight" : "normal",
+                      "fontFamily" : "Noteworthy",
+                      "enablePalette" : true
+                    },
+                    "folded" : false,
+                    "id" : "0693E81A-DA62-4525-B83D-D4638E83DC63-2510-000007B81B9B68BB",
+                    "checkList" : false,
+                    "title" : "Einstufung: Stufe 5",
                     "position" : "{0, 0}",
                     "note" : {
 
@@ -653,7 +821,28 @@
                     "folded" : false,
                     "id" : "921ECF5C-2A9E-4D72-9FD0-7DFF94365071-3591-000015F94BCAA989",
                     "checkList" : false,
-                    "title" : "Aus Sicht der Selbstständigkeit denkbar, aber wernig hilfreich. Student*in hat schon deutlich gemacht, dass nach Fehler gesuch wurde, dieser aber nicht zu finden ist.",
+                    "title" : "Aus Sicht der Selbstständigkeit denkbar, aber wernig hilfreich. Student*in hat schon deutlich gemacht, dass nach Fehler gesucht wurde, dieser aber nicht zu finden ist.",
+                    "position" : "{0, 0}",
+                    "note" : {
+
+                    },
+                    "highlight" : false,
+                    "checkboxStatus" : 0
+                  },
+                  {
+                    "detach" : false,
+                    "style" : {
+                      "lineColor" : "{97, 197, 211, 1.00}",
+                      "fontName" : "Noteworthy",
+                      "fontStyle" : "normal",
+                      "fontWeight" : "normal",
+                      "fontFamily" : "Noteworthy",
+                      "enablePalette" : true
+                    },
+                    "folded" : false,
+                    "id" : "FCA9C348-0DE6-4696-A274-B1DE576CC514-2510-000007C3BE350722",
+                    "checkList" : false,
+                    "title" : "Einstufung: Stufe 2",
                     "position" : "{0, 0}",
                     "note" : {
 
@@ -704,6 +893,27 @@
                     },
                     "highlight" : false,
                     "checkboxStatus" : 0
+                  },
+                  {
+                    "detach" : false,
+                    "style" : {
+                      "lineColor" : "{97, 197, 211, 1.00}",
+                      "fontName" : "Noteworthy",
+                      "fontStyle" : "normal",
+                      "fontWeight" : "normal",
+                      "fontFamily" : "Noteworthy",
+                      "enablePalette" : true
+                    },
+                    "folded" : false,
+                    "id" : "33111879-04EC-47D2-8DBF-9ACCCB169368-2510-000007C7410D139F",
+                    "checkList" : false,
+                    "title" : "Einstufung: Stufe 2-3",
+                    "position" : "{0, 0}",
+                    "note" : {
+
+                    },
+                    "highlight" : false,
+                    "checkboxStatus" : 0
                   }
                 ],
                 "checkboxStatus" : 0
@@ -748,6 +958,27 @@
                     },
                     "highlight" : false,
                     "checkboxStatus" : 0
+                  },
+                  {
+                    "detach" : false,
+                    "style" : {
+                      "lineColor" : "{97, 197, 211, 1.00}",
+                      "fontName" : "Noteworthy",
+                      "fontStyle" : "normal",
+                      "fontWeight" : "normal",
+                      "fontFamily" : "Noteworthy",
+                      "enablePalette" : true
+                    },
+                    "folded" : false,
+                    "id" : "8FA75619-2263-4938-ABC1-8E595E02652A-2510-000007C9C8999860",
+                    "checkList" : false,
+                    "title" : "Einstufung: Stufe 3-4",
+                    "position" : "{0, 0}",
+                    "note" : {
+
+                    },
+                    "highlight" : false,
+                    "checkboxStatus" : 0
                   }
                 ],
                 "checkboxStatus" : 0
@@ -786,6 +1017,27 @@
                     "id" : "04BE5E93-DFDE-4761-BA2E-F8A5CAF2D700-3591-000016A149C18B01",
                     "checkList" : false,
                     "title" : "Aus Student*innensicht im schlimmsten Fall “Arbeitsverweigerung”, nicht als hilfreich angesehen. Hilfestellungen zum konkreten Vorgehen o. Ä. wären besser!",
+                    "position" : "{0, 0}",
+                    "note" : {
+
+                    },
+                    "highlight" : false,
+                    "checkboxStatus" : 0
+                  },
+                  {
+                    "detach" : false,
+                    "style" : {
+                      "lineColor" : "{97, 197, 211, 1.00}",
+                      "fontName" : "Noteworthy",
+                      "fontStyle" : "normal",
+                      "fontWeight" : "normal",
+                      "fontFamily" : "Noteworthy",
+                      "enablePalette" : true
+                    },
+                    "folded" : false,
+                    "id" : "0BC04595-D736-49C4-AF97-FEE0A96577C7-2510-000007CCC47C883C",
+                    "checkList" : false,
+                    "title" : "Einstufung: Stufe 1",
                     "position" : "{0, 0}",
                     "note" : {
 
@@ -882,6 +1134,27 @@
                     },
                     "highlight" : false,
                     "checkboxStatus" : 0
+                  },
+                  {
+                    "detach" : false,
+                    "style" : {
+                      "lineColor" : "{7, 143, 185, 1.00}",
+                      "fontName" : "Noteworthy",
+                      "fontStyle" : "normal",
+                      "fontWeight" : "normal",
+                      "fontFamily" : "Noteworthy",
+                      "enablePalette" : true
+                    },
+                    "folded" : false,
+                    "id" : "BD5CA711-6A54-45DE-AF10-3B3BBFD1DD65-2510-000007CDD25CE27F",
+                    "checkList" : false,
+                    "title" : "Einstufung: Stufe 1",
+                    "position" : "{0, 0}",
+                    "note" : {
+
+                    },
+                    "highlight" : false,
+                    "checkboxStatus" : 0
                   }
                 ],
                 "checkboxStatus" : 0
@@ -920,6 +1193,27 @@
                     "id" : "3116E2B8-97E3-49C2-A90F-9040F71E2181-3591-000016F155D6A2A6",
                     "checkList" : false,
                     "title" : "Nicht hilfreich, vor allem, wenn es sich - tatsächlich oder aus Wahrnehmung der Student*innen - um einen “Irrweg” handelt (falsch, unnötig umständlich, …)",
+                    "position" : "{0, 0}",
+                    "note" : {
+
+                    },
+                    "highlight" : false,
+                    "checkboxStatus" : 0
+                  },
+                  {
+                    "detach" : false,
+                    "style" : {
+                      "lineColor" : "{7, 143, 185, 1.00}",
+                      "fontName" : "Noteworthy",
+                      "fontStyle" : "normal",
+                      "fontWeight" : "normal",
+                      "fontFamily" : "Noteworthy",
+                      "enablePalette" : true
+                    },
+                    "folded" : false,
+                    "id" : "9251BD11-C161-46F7-BE2F-A882A6879E30-2510-000007CEBB1233C6",
+                    "checkList" : false,
+                    "title" : "Einstufung: Stufe “0” (nicht wirklich “Motivations- oder Rückmeldungshilfe”)",
                     "position" : "{0, 0}",
                     "note" : {
 
@@ -970,6 +1264,27 @@
                     },
                     "highlight" : false,
                     "checkboxStatus" : 0
+                  },
+                  {
+                    "detach" : false,
+                    "style" : {
+                      "lineColor" : "{7, 143, 185, 1.00}",
+                      "fontName" : "Noteworthy",
+                      "fontStyle" : "normal",
+                      "fontWeight" : "normal",
+                      "fontFamily" : "Noteworthy",
+                      "enablePalette" : true
+                    },
+                    "folded" : false,
+                    "id" : "0720997F-A4DF-4489-A283-A4DAE5DDA578-2510-000007D4FA62546F",
+                    "checkList" : false,
+                    "title" : "Einstufung: Stufe 2",
+                    "position" : "{0, 0}",
+                    "note" : {
+
+                    },
+                    "highlight" : false,
+                    "checkboxStatus" : 0
                   }
                 ],
                 "checkboxStatus" : 0
@@ -1014,6 +1329,27 @@
                     },
                     "highlight" : false,
                     "checkboxStatus" : 0
+                  },
+                  {
+                    "detach" : false,
+                    "style" : {
+                      "lineColor" : "{7, 143, 185, 1.00}",
+                      "fontName" : "Noteworthy",
+                      "fontStyle" : "normal",
+                      "fontWeight" : "normal",
+                      "fontFamily" : "Noteworthy",
+                      "enablePalette" : true
+                    },
+                    "folded" : false,
+                    "id" : "8BC941FF-58F4-4DB4-A557-2AA3FECCF52A-2510-000007D862FC386A",
+                    "checkList" : false,
+                    "title" : "Einstufung: Stufe 2+4-5",
+                    "position" : "{0, 0}",
+                    "note" : {
+
+                    },
+                    "highlight" : false,
+                    "checkboxStatus" : 0
                   }
                 ],
                 "checkboxStatus" : 0
@@ -1036,7 +1372,7 @@
         },
         "folded" : false,
         "id" : "C9BA350E-5381-4B94-AAC8-DAABC938C62C-3591-000015D027695719",
-        "checkList" : false,
+        "checkList" : true,
         "title" : "TODO",
         "position" : "{0, 0}",
         "note" : {
@@ -1063,7 +1399,7 @@
 
             },
             "highlight" : false,
-            "checkboxStatus" : 0
+            "checkboxStatus" : 2
           },
           {
             "detach" : false,
@@ -1084,7 +1420,7 @@
 
             },
             "highlight" : false,
-            "checkboxStatus" : 0
+            "checkboxStatus" : 1
           },
           {
             "detach" : false,
@@ -1100,6 +1436,134 @@
             "id" : "DBA09E2B-FC29-4A55-890D-BB450B01909E-3591-000015E4EA40126E",
             "checkList" : false,
             "title" : "Bei Feedback zu Antwortwahl auch Stufe angeben…?",
+            "position" : "{0, 0}",
+            "note" : {
+
+            },
+            "highlight" : false,
+            "checkboxStatus" : 1
+          }
+        ],
+        "checkboxStatus" : 0
+      },
+      {
+        "detach" : false,
+        "style" : {
+          "lineColor" : "{97, 197, 211, 1.00}",
+          "fontName" : "Noteworthy",
+          "fontStyle" : "normal",
+          "fontWeight" : "normal",
+          "fontFamily" : "Noteworthy",
+          "enablePalette" : true
+        },
+        "folded" : false,
+        "id" : "7BD9FB43-2B10-40FD-B50F-4A0D935F604A-2510-0000077E271A3233",
+        "checkList" : false,
+        "title" : "Stufen",
+        "position" : "{0, 0}",
+        "note" : {
+
+        },
+        "highlight" : false,
+        "subtopics" : [
+          {
+            "detach" : false,
+            "style" : {
+              "lineColor" : "{97, 197, 211, 1.00}",
+              "fontName" : "Noteworthy",
+              "fontStyle" : "normal",
+              "fontWeight" : "normal",
+              "fontFamily" : "Noteworthy",
+              "enablePalette" : true
+            },
+            "folded" : false,
+            "id" : "73B1BECD-5B5F-4CDA-BF4D-967613CCD768-2510-0000078015A13E22",
+            "checkList" : false,
+            "title" : "1: Motivationshilfe (“Mach weiter”, “schaffst Du”)",
+            "position" : "{0, 0}",
+            "note" : {
+
+            },
+            "highlight" : false,
+            "checkboxStatus" : 0
+          },
+          {
+            "detach" : false,
+            "style" : {
+              "lineColor" : "{97, 197, 211, 1.00}",
+              "fontName" : "Noteworthy",
+              "fontStyle" : "normal",
+              "fontWeight" : "normal",
+              "fontFamily" : "Noteworthy",
+              "enablePalette" : true
+            },
+            "folded" : false,
+            "id" : "D28A0D9D-23ED-4535-BE25-BF42F37C0E81-2510-0000078629F99448",
+            "checkList" : false,
+            "title" : "Stufe 2: Rückmeldungshilfe (“richtiger Weg”, “hier fehlt noch etwas”, “Du hast einen kleinen Fehler”)",
+            "position" : "{0, 0}",
+            "note" : {
+
+            },
+            "highlight" : false,
+            "checkboxStatus" : 0
+          },
+          {
+            "detach" : false,
+            "style" : {
+              "lineColor" : "{97, 197, 211, 1.00}",
+              "fontName" : "Noteworthy",
+              "fontStyle" : "normal",
+              "fontWeight" : "normal",
+              "fontFamily" : "Noteworthy",
+              "enablePalette" : true
+            },
+            "folded" : false,
+            "id" : "829A2838-CF63-431B-AA88-188674C71043-2510-0000078D5183F016",
+            "checkList" : false,
+            "title" : "Stufe 3: allgemein-strategische Hilfe (“mach erst einmal eine Skizze”, “wie haben wir verwandte Probleme gelöst?”)",
+            "position" : "{0, 0}",
+            "note" : {
+
+            },
+            "highlight" : false,
+            "checkboxStatus" : 0
+          },
+          {
+            "detach" : false,
+            "style" : {
+              "lineColor" : "{97, 197, 211, 1.00}",
+              "fontName" : "Noteworthy",
+              "fontStyle" : "normal",
+              "fontWeight" : "normal",
+              "fontFamily" : "Noteworthy",
+              "enablePalette" : true
+            },
+            "folded" : false,
+            "id" : "F336685A-E57E-4B70-A18C-465ABAEE2673-2510-00000794BB540A50",
+            "checkList" : false,
+            "title" : "Stufe 4: inhaltsorientiert-strategische Hilfe (“schau Dir die Definition an”, “Versuche, Satz X \/ Regel Y zu nutzen”)",
+            "position" : "{0, 0}",
+            "note" : {
+
+            },
+            "highlight" : false,
+            "checkboxStatus" : 0
+          },
+          {
+            "detach" : false,
+            "style" : {
+              "lineColor" : "{97, 197, 211, 1.00}",
+              "fontName" : "Noteworthy",
+              "fontStyle" : "normal",
+              "fontWeight" : "normal",
+              "fontFamily" : "Noteworthy",
+              "enablePalette" : true
+            },
+            "folded" : false,
+            "id" : "2BD9FFA5-EDA4-41C5-994A-2812AEF79AC8-2510-0000079B5BE8DA1D",
+            "checkList" : false,
+            "title" : "Stufe 5: inhaltliche Hilfe (“kannst Du durch X hier Y erreichen?”)",
             "position" : "{0, 0}",
             "note" : {
 
