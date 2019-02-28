@@ -146,7 +146,7 @@
           "fontFamily" : "Noteworthy",
           "enablePalette" : true
         },
-        "folded" : false,
+        "folded" : true,
         "id" : "385DB31B-3B21-454E-98B3-82A57D83300A-3591-000014D4385D8EA5",
         "checkList" : false,
         "title" : "Dialog 2",
@@ -452,7 +452,7 @@
           "fontFamily" : "Noteworthy",
           "enablePalette" : true
         },
-        "folded" : false,
+        "folded" : true,
         "id" : "26E48DA6-8262-4C49-861D-39D5BC6311C6-3591-00001529945D1056",
         "checkList" : false,
         "title" : "Dialog 1",

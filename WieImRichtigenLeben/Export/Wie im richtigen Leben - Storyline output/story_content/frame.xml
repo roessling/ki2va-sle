@@ -1,12 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
-<bwFrame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" default_layout="pxabnsnfns01000000001" textdirection="ltr" device="false" fontscale="100" kbshortcuts="false" skip_nav_enabled="true" outputtype="undefined" theme="classic">
+<bwFrame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" default_layout="pxabnsnfns00000000001" textdirection="ltr" device="false" fontscale="100" kbshortcuts="false" skip_nav_enabled="true" chromeless="false" outputtype="undefined" theme="classic">
   <layouts>
-    <layout name="npnxnanbsnfns01000000001" font="Open Sans" controllayout="npnxnanbsnfns01000000001" colorscheme="pxabnsnfns01000000001" string_table="pxabnsnfns01000000001" />
-    <layout name="pxabnsnfns01000000001" font="Open Sans" controllayout="pxabnsnfns01000000001" colorscheme="pxabnsnfns01000000001" string_table="pxabnsnfns01000000001" />
-    <layout name="npxnabnsnfns01000000001" font="Open Sans" controllayout="npxnabnsnfns01000000001" colorscheme="pxabnsnfns01000000001" string_table="pxabnsnfns01000000001" />
-    <layout name="npnxnanbnsnfns01000000001" font="Open Sans" controllayout="npnxnanbnsnfns01000000001" colorscheme="pxabnsnfns01000000001" string_table="pxabnsnfns01000000001" />
-    <layout name="pxabnsnfns01000000000" font="Open Sans" controllayout="pxabnsnfns01000000000" colorscheme="pxabnsnfns01000000001" string_table="pxabnsnfns01000000001" />
-    <layout name="pxnanbnsnfns01000000001" font="Open Sans" controllayout="pxnanbnsnfns01000000001" colorscheme="pxabnsnfns01000000001" string_table="pxabnsnfns01000000001" />
+    <layout name="npnxnanbsnfns00000000001" font="Open Sans" controllayout="npnxnanbsnfns00000000001" colorscheme="pxabnsnfns00000000001" string_table="pxabnsnfns00000000001" />
+    <layout name="pxabnsnfns00000000001" font="Open Sans" controllayout="pxabnsnfns00000000001" colorscheme="pxabnsnfns00000000001" string_table="pxabnsnfns00000000001" />
+    <layout name="npxnabnsnfns00000000001" font="Open Sans" controllayout="npxnabnsnfns00000000001" colorscheme="pxabnsnfns00000000001" string_table="pxabnsnfns00000000001" />
+    <layout name="npnxnanbnsnfns00000000001" font="Open Sans" controllayout="npnxnanbnsnfns00000000001" colorscheme="pxabnsnfns00000000001" string_table="pxabnsnfns00000000001" />
+    <layout name="pxabnsnfns00000000000" font="Open Sans" controllayout="pxabnsnfns00000000000" colorscheme="pxabnsnfns00000000001" string_table="pxabnsnfns00000000001" />
+    <layout name="pxnanbnsnfns00000000001" font="Open Sans" controllayout="pxnanbnsnfns00000000001" colorscheme="pxabnsnfns00000000001" string_table="pxabnsnfns00000000001" />
+    <layout name="pnxnanbnsnfns00000000001" font="Open Sans" controllayout="pnxnanbnsnfns00000000001" colorscheme="pxabnsnfns00000000001" string_table="pxabnsnfns00000000001" />
+    <layout name="pxnanbsnfns00000000001" font="Open Sans" controllayout="pxnanbsnfns00000000001" colorscheme="pxabnsnfns00000000001" string_table="pxabnsnfns00000000001" />
   </layouts>
   <control_options>
     <optiongroups>
@@ -17,18 +19,10 @@
               <option name="title_text" value="Wie im richtigen Leben" />
             </options>
           </option>
-          <option name="logo_enabled" value="true">
-            <options>
-              <option name="logo_url" value="story_content/logo.swf">
-                <properties>
-                  <property name="width" value="767" />
-                  <property name="height" value="354" />
-                </properties>
-              </option>
-              <option name="html5_logo_url" value="mobile/69174S9cEnG.jpg" />
-            </options>
+          <option name="logo_enabled" value="false">
+            <options />
           </option>
-          <option name="sidebar_enabled" value="true">
+          <option name="sidebar_enabled" value="false">
             <options>
               <option name="sidebarpos" value="left" />
             </options>
@@ -86,15 +80,22 @@
           <option name="bottombar_enabled" value="true" />
         </options>
       </optiongroup>
+      <optiongroup name="buttonoptions">
+        <options>
+          <option name="next" value="icon" />
+          <option name="previous" value="icon" />
+          <option name="submit" value="icon" />
+        </options>
+      </optiongroup>
     </optiongroups>
   </control_options>
   <control_layouts>
-    <control_layout name="npnxnanbsnfns01000000001">
+    <control_layout name="npnxnanbsnfns00000000001">
       <control name="volume" enabled="false" />
       <control name="seekbar" enabled="false" />
       <control name="replay" enabled="false" />
       <control name="pauseplay" enabled="false" />
-      <control name="logo" enabled="true" />
+      <control name="logo" enabled="false" />
       <control name="previous" enabled="false" />
       <control name="next" enabled="false" />
       <control name="swipeleft" enabled="false" />
@@ -112,12 +113,12 @@
       </control>
       <control name="close_btn" enabled="true" />
     </control_layout>
-    <control_layout name="pxabnsnfns01000000001">
+    <control_layout name="pxabnsnfns00000000001">
       <control name="volume" enabled="false" />
       <control name="seekbar" enabled="false" />
       <control name="replay" enabled="false" />
       <control name="pauseplay" enabled="false" />
-      <control name="logo" enabled="true" />
+      <control name="logo" enabled="false" />
       <control name="previous" enabled="true" />
       <control name="next" enabled="true" />
       <control name="swipeleft" enabled="true" />
@@ -135,12 +136,12 @@
       </control>
       <control name="close_btn" enabled="true" />
     </control_layout>
-    <control_layout name="npxnabnsnfns01000000001">
+    <control_layout name="npxnabnsnfns00000000001">
       <control name="volume" enabled="false" />
       <control name="seekbar" enabled="false" />
       <control name="replay" enabled="false" />
       <control name="pauseplay" enabled="false" />
-      <control name="logo" enabled="true" />
+      <control name="logo" enabled="false" />
       <control name="previous" enabled="false" />
       <control name="next" enabled="true" />
       <control name="swipeleft" enabled="false" />
@@ -158,12 +159,12 @@
       </control>
       <control name="close_btn" enabled="true" />
     </control_layout>
-    <control_layout name="npnxnanbnsnfns01000000001">
+    <control_layout name="npnxnanbnsnfns00000000001">
       <control name="volume" enabled="false" />
       <control name="seekbar" enabled="false" />
       <control name="replay" enabled="false" />
       <control name="pauseplay" enabled="false" />
-      <control name="logo" enabled="true" />
+      <control name="logo" enabled="false" />
       <control name="previous" enabled="false" />
       <control name="next" enabled="false" />
       <control name="swipeleft" enabled="false" />
@@ -181,12 +182,12 @@
       </control>
       <control name="close_btn" enabled="true" />
     </control_layout>
-    <control_layout name="pxabnsnfns01000000000">
+    <control_layout name="pxabnsnfns00000000000">
       <control name="volume" enabled="false" />
       <control name="seekbar" enabled="false" />
       <control name="replay" enabled="false" />
       <control name="pauseplay" enabled="false" />
-      <control name="logo" enabled="true" />
+      <control name="logo" enabled="false" />
       <control name="previous" enabled="true" />
       <control name="next" enabled="true" />
       <control name="swipeleft" enabled="true" />
@@ -204,12 +205,12 @@
       </control>
       <control name="close_btn" enabled="false" />
     </control_layout>
-    <control_layout name="pxnanbnsnfns01000000001">
+    <control_layout name="pxnanbnsnfns00000000001">
       <control name="volume" enabled="false" />
       <control name="seekbar" enabled="false" />
       <control name="replay" enabled="false" />
       <control name="pauseplay" enabled="false" />
-      <control name="logo" enabled="true" />
+      <control name="logo" enabled="false" />
       <control name="previous" enabled="true" />
       <control name="next" enabled="true" />
       <control name="swipeleft" enabled="false" />
@@ -227,9 +228,55 @@
       </control>
       <control name="close_btn" enabled="true" />
     </control_layout>
+    <control_layout name="pnxnanbnsnfns00000000001">
+      <control name="volume" enabled="false" />
+      <control name="seekbar" enabled="false" />
+      <control name="replay" enabled="false" />
+      <control name="pauseplay" enabled="false" />
+      <control name="logo" enabled="false" />
+      <control name="previous" enabled="true" />
+      <control name="next" enabled="false" />
+      <control name="swipeleft" enabled="false" />
+      <control name="swiperight" enabled="false" />
+      <control name="submit" enabled="false" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="false" />
+      <control name="glossary" enabled="false" />
+      <control name="transcript" enabled="false" />
+      <control name="outline" enabled="false">
+        <controls>
+          <control name="search" enabled="false" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
+    </control_layout>
+    <control_layout name="pxnanbsnfns00000000001">
+      <control name="volume" enabled="false" />
+      <control name="seekbar" enabled="false" />
+      <control name="replay" enabled="false" />
+      <control name="pauseplay" enabled="false" />
+      <control name="logo" enabled="false" />
+      <control name="previous" enabled="true" />
+      <control name="next" enabled="true" />
+      <control name="swipeleft" enabled="false" />
+      <control name="swiperight" enabled="false" />
+      <control name="submit" enabled="true" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="false" />
+      <control name="glossary" enabled="false" />
+      <control name="transcript" enabled="false" />
+      <control name="outline" enabled="false">
+        <controls>
+          <control name="search" enabled="false" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
+    </control_layout>
   </control_layouts>
   <colorschemes>
-    <colorscheme name="pxabnsnfns01000000001">
+    <colorscheme name="pxabnsnfns00000000001">
       <color_group name="infopanel">
         <group_colors>
           <color name="link_text">
@@ -1135,7 +1182,8 @@
     </colorscheme>
   </colorschemes>
   <string_tables>
-    <string_table name="pxabnsnfns01000000001">
+    <string_table name="pxabnsnfns00000000001">
+      <string id="acc_active">aktiv</string>
       <string id="check_include">Überprüfen</string>
       <string id="clear">Löschen</string>
       <string id="close">Schließen</string>
@@ -1169,6 +1217,7 @@
       <string id="resources">Ressourcen</string>
       <string id="acc_resources">ressourcen</string>
       <string id="restart">Neustart</string>
+      <string id="resume">Fortsetzen</string>
       <string id="search">Suche...</string>
       <string id="acc_search_input">suche</string>
       <string id="search_in">Suche in:</string>
@@ -1199,9 +1248,12 @@
             <slidelink slideid="_player.5qfPBWCNLAD.5iAyb6qrzeY" displaytext="“Wie im richtigen Leben”" expand="false" type="slide" />
             <slidelink slideid="_player.5qfPBWCNLAD.5gNMx5kdaFu" displaytext="Normalität und Norm an der TU Darmstadt" expand="false" type="slide" />
             <slidelink slideid="_player.5qfPBWCNLAD.6pvmz5ksqpS" displaytext="Das Übliche…" expand="false" type="slide" />
+            <slidelink slideid="_player.5qfPBWCNLAD.5zF29rQlf3I" displaytext="Deine Rolle und Deine Begleiter*innen während der Übung" expand="false" type="slide" />
             <slidelink slideid="_player.5qfPBWCNLAD.6L4vJuGMk8N" displaytext="Aus ZufälligeZuweisungPersonas herausziehen" expand="false" type="slide" />
             <slidelink slideid="_player.5qfPBWCNLAD.6FQfm55Vrq2" displaytext="Erläuterung des weiteren Vorgehens" expand="false" type="slide" />
             <slidelink slideid="_player.5qfPBWCNLAD.5Z1mbqGExW1" displaytext="Draw from FragenpoolWieImRichtigenLeben" expand="false" type="slide" />
+            <slidelink slideid="_player.5qfPBWCNLAD.5rQhq19z7em" displaytext="Vielfalt – auch – an der Universität" expand="false" type="slide" />
+            <slidelink slideid="_player.5qfPBWCNLAD.67TLapxb8sG" displaytext="Vielfalt – auch – an der Universität" expand="false" type="slide" />
             <slidelink slideid="_player.5qfPBWCNLAD.6laEbmbQFHp" displaytext="Quellen" expand="false" type="slide" />
           </links>
         </slidelink>
@@ -1230,7 +1282,8 @@
         </slidelink>
         <slidelink slideid="_player.5buO7WQJ202" displaytext="FAQ" expand="true" type="slide">
           <links>
-            <slidelink slideid="_player.5buO7WQJ202.697Fkq2n3zt" displaytext="asdflöasädfjasädgkjag" expand="false" type="slide" />
+            <slidelink slideid="_player.5buO7WQJ202.697Fkq2n3zt" displaytext="Mögliche Studierende an der TU Darmstadt – aber keine “Normstudent*innen”" expand="false" type="slide" />
+            <slidelink slideid="_player.5buO7WQJ202.6o9kLxymY97" displaytext="Vielfalt – auch – an der Universität" expand="false" type="slide" />
           </links>
         </slidelink>
       </links>
