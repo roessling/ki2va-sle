@@ -452,7 +452,7 @@
           "fontFamily" : "Noteworthy",
           "enablePalette" : true
         },
-        "folded" : true,
+        "folded" : false,
         "id" : "26E48DA6-8262-4C49-861D-39D5BC6311C6-3591-00001529945D1056",
         "checkList" : false,
         "title" : "Dialog 1",
